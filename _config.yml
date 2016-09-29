@@ -1,0 +1,30 @@
+# top level stuff you probably don't need to touch
+highlighter: rouge
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+# edit here to achieve your personal greatness
+url: http://mateusblopes.github.io/
+baseurl: /
+title: Mateus Bruno T. Lopes
+author: Mateus Bruno T. Lopes
+description: Personal blog and resume
+avatar: profile.png
+email: mateus.redes@email.com
+github: mateusblopes # username
+twitter: mateusblopes
+linkedin: mateusblopes
+#Comment out if you don't want disqus 
+disqus: mateusblopes
+#google_analytics: UA-69391421-1
+
+
+# needed for travis-ci build
+exclude: [vendor]
