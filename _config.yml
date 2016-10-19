@@ -12,7 +12,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://mateusblopes.github.io/
-baseurl: http://mateusblopes.github.io/
+baseurl: http://mateusblopes.github.io
 title: Mateus Bruno T. Lopes
 author: Mateus Bruno T. Lopes
 description: Personal blog and resume
@@ -22,9 +22,8 @@ github: mateusblopes # username
 twitter: mateusblopes
 linkedin: mateusblopes
 #Comment out if you don't want disqus 
-disqus: mateusblopes
+#disqus: mateusblopes
 #google_analytics: UA-69391421-1
-
 
 # needed for travis-ci build
 exclude: [vendor]
