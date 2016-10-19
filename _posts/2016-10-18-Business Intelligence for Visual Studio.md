@@ -14,7 +14,7 @@ tags:
 
 <p>Faça uma busca no google ou no site da própria Microsoft por "<a href="https://www.microsoft.com/en-us/download/details.aspx?id=42313">Microsoft SQL Server Data Tools - Business Intelligence for Visual Studio 2013"</a></p>
 
-<p><img src="./_posts/img/BIVisualStudio1.jpg" alt="Fazendo Download SQL Server Data Tools - Business Intelligence for Visual Studio 2013" /></p>
+<img src="https://github.com/mateusblopes/mateusblopes.github.io/blob/master/_posts/img/BIVisualStudio1.png" alt="Fazendo Download SQL Server Data Tools - Business Intelligence for Visual Studio 2013" />
 
 <p>Selecione o idioma e clique no link <strong>"Baixar/Download"</strong> para fazer o download do software.</p>
 
