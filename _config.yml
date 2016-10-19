@@ -12,7 +12,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://mateusblopes.github.io/
-baseurl: /
+baseurl: http://mateusblopes.github.io/
 title: Mateus Bruno T. Lopes
 author: Mateus Bruno T. Lopes
 description: Personal blog and resume
