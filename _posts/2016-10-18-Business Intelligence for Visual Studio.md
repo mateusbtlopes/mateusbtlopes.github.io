@@ -15,7 +15,7 @@ tags:
 
 <p>2. Selecione o idioma e clique no link <strong>"Baixar/Download"</strong> para fazer o download do software. </p>
 
-<p><img src="https://github.com/mateusblopes/mateusblopes.github.io/blob/master/_posts/img/BIVisualStudio1.png" alt="BI Visual Studio - Download SQL Server Data Tools - Business Intelligence for Visual Studio 2013" /></p>
+<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/BIVisualStudio1.png" alt="BI Visual Studio - Download SQL Server Data Tools - Business Intelligence for Visual Studio 2013" /></p>
 
 <hr/>
 
