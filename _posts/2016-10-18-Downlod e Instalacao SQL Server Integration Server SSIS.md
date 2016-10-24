@@ -7,9 +7,11 @@ tags:
 - Tutorial
 ---
 
-<h1 id="heading1">Download e Instalação do SQL Server Data Tools - Business Intelligence for Visual Studio 2013</h1>
+<h1 id="heading1">Download e Instalação do SQL Server Integration Server (SSIS)</h1>
 
 <h3 id="heading3">Download</h3>
+
+<p>Neste tutorial faremos o download e a instalação do SQL Server Integration Server (SSIS) por meio do SQL Server Data Tools de Business Intelligence, um plugin/extensão para o Visual Studio.</p>
 
 <p>1. Faça uma busca no google ou no site da própria Microsoft por "<a href="https://www.microsoft.com/en-us/download/details.aspx?id=42313">Microsoft SQL Server Data Tools - Business Intelligence for Visual Studio 2013".</a></p>
 
