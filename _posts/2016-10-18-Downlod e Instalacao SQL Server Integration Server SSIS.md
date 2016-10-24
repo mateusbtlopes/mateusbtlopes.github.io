@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Downlod e Instalacao SQL Server Integration Server SSIS
+title:  Downlod e Instalação SQL Server Integration Server - SSIS
 tags:
 - Business Intelligence
 - Visual Studio
@@ -26,7 +26,7 @@ tags:
 <p>Antes de fazer a instalação do SQL Server Data Tools - Business Intelligence for Visual Studio 2013 é <strong>necessário</strong> que você tenha instalado em seu computador o <a href="https://www.visualstudio.com/pt-br/downloads/">Microsoft Visual Studio 2013</a>.</p>
 <p>Caso você já o tenha instalado, execute a instalação do SQL Server Data Tools - Business Intelligence for Visual Studio 2013 seguindo os passos abaixo:</p>
 
-<p>1. Execute o instalador que acabamos de fazer download e a tela semelhante a abaixo aparecerá para que você escolha o diretorio de extração dos arquivos para instalação.</p>
+<p>1. Execute o instalador que acabamos de fazer download e uma tela semelhante a abaixo aparecerá para que você escolha o diretorio de extração dos arquivos para instalação.</p>
 
 <p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/BIVisualStudio2.png" alt="BI Visual Studio - Diretório para Extração Arquivos" /></p>
 
