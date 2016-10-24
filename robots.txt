@@ -1,2 +1,7 @@
 User-agent: *
-Disallow: /
+Allow: /
+Allow: /blog.html
+Allow: /articles.html
+Allow: /projects.html
+Allow: /timeline.html
+Allow: /Business-Intelligence-for-Visual-Studio.html
