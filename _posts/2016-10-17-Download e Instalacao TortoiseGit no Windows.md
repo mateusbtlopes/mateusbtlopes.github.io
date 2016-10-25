@@ -24,9 +24,6 @@ tags:
 
 <h3 id="heading3">Instalação</h3>
 
-<p>Antes de fazer a instalação do SQL Server Data Tools - Business Intelligence for Visual Studio 2013 é <strong>necessário</strong> que você tenha instalado em seu computador o <a href="https://www.visualstudio.com/pt-br/downloads/">Microsoft Visual Studio 2013</a>.</p>
-<p>Caso você já o tenha instalado, execute a instalação do SQL Server Data Tools - Business Intelligence for Visual Studio 2013 seguindo os passos abaixo:</p>
-
 <p>1. Execute o instalador que acabamos de fazer download e uma tela semelhante a abaixo aparecerá para dar boas-vindas a instalação do software.</p>
 
 <p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/TortoiseGitInstalacao2.png" alt="TortoiseGit - Boas-vindas" /></p>
