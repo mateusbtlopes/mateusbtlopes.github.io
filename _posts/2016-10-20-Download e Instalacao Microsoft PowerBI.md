@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Download e Instalacao Microsoft PowerBI Desktop
+title:  Download e Instalação Microsoft PowerBI Desktop
 tags:
 - PowerBI
 - Business Intelligence
