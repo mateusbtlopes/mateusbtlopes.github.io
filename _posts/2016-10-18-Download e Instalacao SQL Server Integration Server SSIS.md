@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Downlod e Instalação SQL Server Integration Server - SSIS
+title:  Download e Instalação SQL Server Integration Server - SSIS
 tags:
 - SSIS
 - Business Intelligence
