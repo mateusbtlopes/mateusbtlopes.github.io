@@ -14,7 +14,7 @@ tags:
 
 <p>Neste tutorial faremos o download e a instalação do Git no Windows.</p>
 
-<p>1. Faça uma busca no google por "<a href="https://git-scm.com/downloads">Download Git for Windows".</a></p>
+<p>1. Faça uma busca no google por "<a href="https://tortoisegit.org/download/">Download TortoiseGit for Windows".</a></p>
 
 <p>2. Clique no link <strong>"Downloads for Windows"</strong> para fazer o download do software. </p>
 
