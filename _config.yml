@@ -15,7 +15,7 @@ url: http://mateusblopes.com.br
 baseurl: http://mateusblopes.com.br
 title: Mateus Bruno T. Lopes
 author: Mateus Bruno T. Lopes
-description: Personal blog and resume
+description: Site/blog pessoal com objetivo de falar sobre Processos de Software, Teste de Software e Business Intelligence
 avatar: profile.png
 email: mateus.redes@email.com
 github: mateusblopes # username
@@ -23,7 +23,7 @@ twitter: mateusblopes
 linkedin: mateusblopes
 #Comment out if you don't want disqus 
 #disqus: mateusblopes
-#google_analytics: UA-69391421-1
+google_analytics: UA-86360610-1
 
 # needed for travis-ci build
 exclude: [vendor]
