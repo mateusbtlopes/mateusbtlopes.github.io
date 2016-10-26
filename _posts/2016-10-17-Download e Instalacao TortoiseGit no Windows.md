@@ -42,7 +42,7 @@ tags:
 
 <p>5. Aguarde o processo de instalação do Git.</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/TortoiseGitInstalacao6.png" alt="TortoiseGit - Processo de instalação" /></p> /></p>
+<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/TortoiseGitInstalacao6.png" alt="TortoiseGit - Processo de instalação" /></p>
 
 <p>6. Ao final do processo de instalação temos o Git instalado e pronto para ser usado.</p>
 
