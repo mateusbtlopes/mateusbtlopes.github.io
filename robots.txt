@@ -8,3 +8,4 @@ Allow: /Downlod-e-Instalacao-SQL-Server-Integration-Server-SSIS.html
 Allow: /Download-e-Instalacao-TortoiseGit-no-Windows.html
 Allow: /Download-e-Instalacao-Git-no-Windows.html
 Allow: /Download-e-Instalacao-Notepad++-no-Windows.html
+Allow: /Download-e-Instalacao-Microsoft-PowerBI.html
