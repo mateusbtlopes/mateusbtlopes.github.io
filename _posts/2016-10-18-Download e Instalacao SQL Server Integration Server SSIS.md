@@ -12,20 +12,22 @@ tags:
 
 <h3 id="heading3">Download</h3>
 
-<p>Neste tutorial faremos o download e a instalação do SQL Server Integration Server (SSIS) por meio do SQL Server Data Tools de Business Intelligence, um plugin/extensão para o Visual Studio.</p>
+<p>Neste tutorial faremos o download e a instalação do SQL Server Integration Server (SSIS) por meio do SQL Server Data Tools de Business Intelligence, um plugin/extensão para o Visual Studio conhecido como SQL Server Integration Service.</p>
 
-<p>1. Faça uma busca no google ou no site da própria Microsoft por "<a href="https://www.microsoft.com/en-us/download/details.aspx?id=42313">Microsoft SQL Server Data Tools - Business Intelligence for Visual Studio 2013".</a></p>
+<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/BIVisualStudio0.png" alt="BI Visual Studio - SQL Server Integration Service" /></p>
+
+<p>1. Faça uma busca no google ou no site da própria Microsoft por "<a href="https://www.microsoft.com/en-us/download/details.aspx?id=42313">Microsoft SQL Server Data Tools - Business Intelligence for Visual Studio".</a></p>
 
 <p>2. Selecione o idioma e clique no link <strong>"Baixar/Download"</strong> para fazer o download do software. </p>
 
-<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/BIVisualStudio1.png" alt="BI Visual Studio - Download SQL Server Data Tools - Business Intelligence for Visual Studio 2013" /></p>
+<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/BIVisualStudio1.png" alt="BI Visual Studio - Download SQL Server Data Tools - Business Intelligence for Visual Studio" /></p>
 
 <hr/>
 
 <h3 id="heading3">Instalação</h3>
 
-<p>Antes de fazer a instalação do SQL Server Data Tools - Business Intelligence for Visual Studio 2013 é <strong>necessário</strong> que você tenha instalado em seu computador o <a href="https://www.visualstudio.com/pt-br/downloads/">Microsoft Visual Studio 2013</a>.</p>
-<p>Caso você já o tenha instalado, execute a instalação do SQL Server Data Tools - Business Intelligence for Visual Studio 2013 seguindo os passos abaixo:</p>
+<p>Antes de fazer a instalação do SQL Server Data Tools - Business Intelligence for Visual Studio é <strong>necessário</strong> que você tenha instalado em seu computador o <a href="https://www.visualstudio.com/pt-br/downloads/">Microsoft Visual Studio</a>.</p>
+<p>Caso você já o tenha instalado, execute a instalação do SQL Server Data Tools - Business Intelligence for Visual Studio seguindo os passos abaixo:</p>
 
 <p>1. Execute o instalador que acabamos de fazer download e uma tela semelhante a abaixo aparecerá para que você escolha o diretorio de extração dos arquivos para instalação.</p>
 
@@ -43,7 +45,7 @@ tags:
 
 <p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/BIVisualStudio5.png" alt="BI Visual Studio - Microsoft Update" /></p>
 
-<p>5. Selecione a opção para instalação do "SQL Server Data Tools - Business Intelligence for Visual Studio 2013". Se esta opção não for marcada não teremos instalado aquilo que nos propusemos ao iniciar este tutorial.</p>
+<p>5. Selecione a opção para instalação do "SQL Server Data Tools - Business Intelligence for Visual Studio". Se esta opção não for marcada não teremos instalado aquilo que nos propusemos ao iniciar este tutorial.</p>
 
 <p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/BIVisualStudio6.png" alt="BI Visual Studio - Instalação" /></p>
 
@@ -51,6 +53,6 @@ tags:
 
 <p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/BIVisualStudio7.png" alt="BI Visual Studio - Processo de Instalação" /></p>
 
-<p>7. Ao final do processo de instalação temos o SQL Server Data Tools - Business Intelligence for Visual Studio 2013 instalado e pronto para ser usado.</p>
+<p>7. Ao final do processo de instalação temos o SQL Server Data Tools - Business Intelligence for Visual Studio instalado e pronto para ser usado.</p>
 
 <p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/BIVisualStudio8.png" alt="BI Visual Studio - Instalação Concluída" /></p>
