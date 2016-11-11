@@ -3,16 +3,14 @@ layout: post
 title:  Download e Instalação do Notepad++ no Windows
 tags:
 - Notepad++
-- Tutorial
+- Editor Avançado
 ---
-
-<h1 id="heading1">Download e Instalação do Notepad++ no Windows</h1>
-
-<h3 id="heading3">Download</h3>
 
 <p>Neste tutorial faremos o download e a instalação do Notepad++ no Windows.</p>
 
-<p>1. Faça uma busca no google por "<a href="https://notepad-plus-plus.org/download/v7.1.html">Notepad++ for Windows".</a></p>
+<h3 id="heading3">Download</h3>
+
+<p>1. Faça uma busca no google por "<a href="https://notepad-plus-plus.org/download/" target="_blank">Notepad++ for Windows</a>".</p>
 
 <p>2. Clique no link <strong>"Download"</strong> para fazer o download do software. </p>
 
