@@ -47,7 +47,7 @@ tags:
 
 <p>5. Selecione a opção para instalação do "SQL Server Data Tools - Business Intelligence for Visual Studio". Se esta opção não for marcada não teremos instalado aquilo que nos propusemos ao iniciar este tutorial.</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/BIVisualStudio6.png" alt="BI Visual Studio - Instalação" /></p>
+<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/BIVisualStudio6.png" alt="BI Visual Studio - Instalação" width="100%"/></p>
 
 <p>6. Aguarde o processo de instalação ser concluído.</p>
 
