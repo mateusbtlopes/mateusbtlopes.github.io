@@ -5,16 +5,13 @@ tags:
 - TortoiseGit
 - Git
 - Controle Versão
-- Tutorial
 ---
-
-<h1 id="heading1">Download e Instalação do Git no Windows</h1>
-
-<h3 id="heading3">Download</h3>
 
 <p>Neste tutorial faremos o download e a instalação do Git no Windows.</p>
 
-<p>1. Faça uma busca no google por "<a href="https://tortoisegit.org/download/">Download TortoiseGit for Windows".</a></p>
+<h3 id="heading3">Download</h3>
+
+<p>1. Faça uma busca no google por "<a href="https://tortoisegit.org/download/" target="_blank">Download TortoiseGit for Windows".</a></p>
 
 <p>2. Clique no link <strong>"Downloads for Windows"</strong> para fazer o download do software. </p>
 

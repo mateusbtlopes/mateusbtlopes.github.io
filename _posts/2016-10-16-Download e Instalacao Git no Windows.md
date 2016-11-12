@@ -4,16 +4,13 @@ title:  Download e Instalação do Git no Windows
 tags:
 - Git
 - Controle Versão
-- Tutorial
 ---
-
-<h1 id="heading1">Download e Instalação do Git no Windows</h1>
-
-<h3 id="heading3">Download</h3>
 
 <p>Neste tutorial faremos o download e a instalação do Git no Windows.</p>
 
-<p>1. Faça uma busca no google por "<a href="https://git-scm.com/downloads">Download Git for Windows".</a></p>
+<h3 id="heading3">Download</h3>
+
+<p>1. Faça uma busca no google por "<a href="https://git-scm.com/downloads" target="_blank">Download Git for Windows".</a></p>
 
 <p>2. Clique no link <strong>"Downloads for Windows"</strong> para fazer o download do software. </p>
 
@@ -33,11 +30,11 @@ tags:
 
 <p>3. Nesta tela será possível escolher os componentes a serem instalados com o Git, optei pela instalação padrão, clique em "Next".</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/GitInstalacao4.png" alt="Git - Diretório de instalação" /></p>
+<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/GitInstalacao4.png" alt="Git - Componentes de instalação" /></p>
 
 <p>4. Nesta tela será possível definir o nome para o Git no menu start/Iniciar, optei pelo nome padrão, clique em "Next".</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/GitInstalacao5.png" alt="Git - Diretório de instalação" /></p>
+<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/GitInstalacao5.png" alt="Git - Atalho no menu start/iniciar" /></p>
 
 <p>5. Selecione a opção "Use Git from Git Bash Only" nos ajustes de PATH do ambiente, clique em "Next".</p>
 

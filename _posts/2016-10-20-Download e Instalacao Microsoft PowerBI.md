@@ -6,16 +6,13 @@ tags:
 - Business Intelligence
 - Data Visualization
 - Self Service BI
-- Tutorial
 ---
-
-<h1 id="heading1">Download e Instalação Microsoft PowerBI Desktop</h1>
-
-<h3 id="heading3">Download</h3>
 
 <p>Neste tutorial faremos o download e a instalação da ferramenta de Data Visualization categorizada como uma ferramenta que faz parte da novidade "Self Service BI", farei um post específico sobre este assunto em breve.</p>
 
-<p>1. Faça uma busca no google ou no site da própria Microsoft por "<a href="https://powerbi.microsoft.com/pt-br/downloads/">Microsoft PowerBI Desktop".</a></p>
+<h3 id="heading3">Download</h3>
+
+<p>1. Faça uma busca no google ou no site da própria Microsoft por "<a href="https://powerbi.microsoft.com/pt-br/downloads/"  target="_blank">Microsoft PowerBI Desktop</a>".</p>
 
 <p>2. Selecione o idioma e clique no link <strong>"Download"</strong> para fazer o download do software. </p>
 

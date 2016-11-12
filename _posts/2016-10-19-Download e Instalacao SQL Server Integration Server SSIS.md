@@ -5,18 +5,15 @@ tags:
 - SSIS
 - Business Intelligence
 - Visual Studio
-- Tutorial
 ---
-
-<h1 id="heading1">Download e Instalação do SQL Server Integration Server (SSIS)</h1>
-
-<h3 id="heading3">Download</h3>
 
 <p>Neste tutorial faremos o download e a instalação do SQL Server Integration Server (SSIS) por meio do SQL Server Data Tools de Business Intelligence, um plugin/extensão para o Visual Studio conhecido como SQL Server Integration Service.</p>
 
 <p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/BIVisualStudio0.png" alt="BI Visual Studio - SQL Server Integration Service" /></p>
 
-<p>1. Faça uma busca no google ou no site da própria Microsoft por "<a href="https://www.microsoft.com/en-us/download/details.aspx?id=42313">Microsoft SQL Server Data Tools - Business Intelligence for Visual Studio".</a></p>
+<h3 id="heading3">Download</h3>
+
+<p>1. Faça uma busca no google ou no site da própria Microsoft por "<a href="https://www.microsoft.com/en-us/download/details.aspx?id=42313" target="_blank">Microsoft SQL Server Data Tools - Business Intelligence for Visual Studio</a>".</p>
 
 <p>2. Selecione o idioma e clique no link <strong>"Baixar/Download"</strong> para fazer o download do software. </p>
 
@@ -26,8 +23,8 @@ tags:
 
 <h3 id="heading3">Instalação</h3>
 
-<p>Antes de fazer a instalação do SQL Server Data Tools - Business Intelligence for Visual Studio é <strong>necessário</strong> que você tenha instalado em seu computador o <a href="https://www.visualstudio.com/pt-br/downloads/">Microsoft Visual Studio</a>.</p>
-<p>Caso você já o tenha instalado, execute a instalação do SQL Server Data Tools - Business Intelligence for Visual Studio seguindo os passos abaixo:</p>
+<p>Antes de fazer a instalação do SQL Server Data Tools - Business Intelligence for Visual Studio é <strong>necessário</strong> que você tenha instalado em seu computador o <a href="mateusblopes.com.br/Download-e-Instalacao-Visual-Studio" target="_blank">Microsoft Visual Studio</a>.</p>
+<p>Caso você já tenha instalado, execute a instalação do SQL Server Data Tools - Business Intelligence for Visual Studio seguindo os passos abaixo:</p>
 
 <p>1. Execute o instalador que acabamos de fazer download e uma tela semelhante a abaixo aparecerá para que você escolha o diretorio de extração dos arquivos para instalação.</p>
 
