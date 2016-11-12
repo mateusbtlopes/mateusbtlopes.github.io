@@ -7,7 +7,7 @@ tags:
 
 <p>Neste tutorial faremos o download e a instalação do Microsoft Visual Studio.</p>
 
-<p>Aprenda a instalar o <strong>SSIS - SQL Server Integration Service</strong> neste post: "<a href="mateusblopes.com.br/Download-e-Instalacao-SQL-Server-Integration-Service-SSIS" target="_blank">Download e Instalação do SQL Server Integration Service - SSIS</a>".</p>
+<p>Aprenda a instalar o <strong>SSIS - SQL Server Integration Service</strong> neste post: "<a href="http://mateusblopes.com.br/Download-e-Instalacao-SQL-Server-Integration-Service-SSIS" target="_blank">Download e Instalação do SQL Server Integration Service - SSIS</a>".</p>
 
 <h3 id="heading3">Download</h3>
 
@@ -21,11 +21,11 @@ tags:
 
 <p>1. Execute o instalador que acabamos de fazer download e uma tela semelhante a exibida abaixo aparecerá para que você escolha o diretorio de instalação e aceite a licença de uso do Visual Studio, clique em "Next".</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/VisualStudo1.png" alt="Visual Studio - Diretório de instalação e licença de uso" /></p>
+<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/VisualStudio1.png" alt="Visual Studio - Diretório de instalação e licença de uso" /></p>
 
 <p>2. Na próxima tela serão exibidas as opções de features que você pode instalar junto com seu Visual Studio, selecione as festaures que desejar instalar e clique em "Next".</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/VisualStudo2.png" alt="Visual Studio - Features da instalação" /></p>
+<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/VisualStudio2.png" alt="Visual Studio - Features da instalação" /></p>
 
 <p>3. Aguarde o processo de instalação ser concluído.</p>
 

@@ -23,7 +23,7 @@ tags:
 
 <h3 id="heading3">Instalação</h3>
 
-<p>Antes de fazer a instalação do SQL Server Data Tools - Business Intelligence for Visual Studio é <strong>necessário</strong> que você tenha instalado em seu computador o <a href="mateusblopes.com.br/Download-e-Instalacao-Visual-Studio" target="_blank">Microsoft Visual Studio</a>.</p>
+<p>Antes de fazer a instalação do SQL Server Data Tools - Business Intelligence for Visual Studio é <strong>necessário</strong> que você tenha instalado em seu computador o <a href="http://mateusblopes.com.br/Download-e-Instalacao-Visual-Studio" target="_blank">Microsoft Visual Studio</a>.</p>
 <p>Caso você já tenha instalado, execute a instalação do SQL Server Data Tools - Business Intelligence for Visual Studio seguindo os passos abaixo:</p>
 
 <p>1. Execute o instalador que acabamos de fazer download e uma tela semelhante a abaixo aparecerá para que você escolha o diretorio de extração dos arquivos para instalação.</p>
