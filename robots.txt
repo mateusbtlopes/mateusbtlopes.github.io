@@ -10,3 +10,4 @@ Allow: /Download-e-Instalacao-TortoiseGit-no-Windows.html
 Allow: /Download-e-Instalacao-Visual-Studio.html
 Allow: /Downlod-e-Instalacao-SQL-Server-Integration-Server-SSIS.html
 Allow: /Download-e-Instalacao-Microsoft-PowerBI.html
+Allow: /Download-e-Instalacao-Microsoft-SQL-Server.html
