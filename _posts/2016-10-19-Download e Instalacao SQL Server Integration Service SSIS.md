@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Download e Instalação SQL Server Integration Server - SSIS
+title:  Download e Instalação SQL Server Integration Service - SSIS
 tags:
 - SSIS
 - Business Intelligence
 - Visual Studio
 ---
 
-<p>Neste tutorial faremos o download e a instalação do SQL Server Integration Server (SSIS) por meio do SQL Server Data Tools de Business Intelligence, um plugin/extensão para o Visual Studio conhecido como SQL Server Integration Service.</p>
+<p>Neste tutorial faremos o download e a instalação do SQL Server Integration Service (SSIS) por meio do SQL Server Data Tools de Business Intelligence, um plugin/extensão para o Visual Studio conhecido como SQL Server Integration Service.</p>
 
 <p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/BIVisualStudio0.png" alt="BI Visual Studio - SQL Server Integration Service" /></p>
 

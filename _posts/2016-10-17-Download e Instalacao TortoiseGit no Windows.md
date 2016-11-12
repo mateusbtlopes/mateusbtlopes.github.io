@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Download e Instalação TortoiseGit no Windows.md
+title:  Download e Instalação TortoiseGit no Windows
 tags:
 - TortoiseGit
 - Git
@@ -11,7 +11,7 @@ tags:
 
 <h3 id="heading3">Download</h3>
 
-<p>1. Faça uma busca no google por "<a href="https://tortoisegit.org/download/" target="_blank">Download TortoiseGit for Windows".</a></p>
+<p>1. Faça uma busca no google por "<a href="https://tortoisegit.org/download/" target="_blank">Download TortoiseGit for Windows</a>".</p>
 
 <p>2. Clique no link <strong>"Downloads for Windows"</strong> para fazer o download do software. </p>
 

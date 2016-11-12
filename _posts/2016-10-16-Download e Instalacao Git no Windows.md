@@ -10,7 +10,7 @@ tags:
 
 <h3 id="heading3">Download</h3>
 
-<p>1. Faça uma busca no google por "<a href="https://git-scm.com/downloads" target="_blank">Download Git for Windows".</a></p>
+<p>1. Faça uma busca no google por "<a href="https://git-scm.com/downloads" target="_blank">Download Git for Windows</a>".</p>
 
 <p>2. Clique no link <strong>"Downloads for Windows"</strong> para fazer o download do software. </p>
 
