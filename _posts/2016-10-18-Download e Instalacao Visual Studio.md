@@ -7,8 +7,6 @@ tags:
 
 <p>Neste tutorial faremos o download e a instalação do Microsoft Visual Studio.</p>
 
-<p>Aprenda a instalar o <strong>SSIS - SQL Server Integration Service</strong> neste post: "<a href="http://mateusblopes.com.br/Download-e-Instalacao-SQL-Server-Integration-Service-SSIS" target="_blank">Download e Instalação do SQL Server Integration Service - SSIS</a>".</p>
-
 <h3 id="heading3">Download</h3>
 
 <p>1. Faça uma busca no google ou no site da própria Microsoft por "<a href="https://www.visualstudio.com/downloads/" target="_blank">Microsoft Visual Studio</a>".</p>
