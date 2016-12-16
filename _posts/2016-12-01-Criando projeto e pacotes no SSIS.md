@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Criando um projeto e pacotes no SSIS
+title:  Criando projeto e pacotes no SSIS
 tags:
 - SSIS
 - Business Intelligence
