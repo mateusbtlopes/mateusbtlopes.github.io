@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Criando conexões com Banco de Dados, Excel, CSV e TXT no SSIS
+title:  Criando conexões no SSIS
 tags:
 - SSIS
 - Business Intelligence
