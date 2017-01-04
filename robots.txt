@@ -17,3 +17,4 @@ Allow: /criando-projeto-e-pacotes-no-ssis.html
 Allow: /criando-conexoes-no-ssis.html
 Allow: /instalando-selenium-ide-no-firefox.html
 Allow: /executando-testes-com-selenium-ide.html
+Allow: /extraindo-dados-de-arquivo-txt.html
