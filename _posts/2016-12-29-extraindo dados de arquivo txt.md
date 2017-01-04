@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Extraindo dados de um arquivo TXT
+title:  Extraindo dados de arquivo TXT
 tags:
 - SSIS
 - Business Intelligence
