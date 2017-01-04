@@ -66,3 +66,5 @@ tags:
 <p>12. Temos então os dois arquivos origem e destino processados.</p>
 
 <p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/ExtraindoDadosTXT12.png" alt="Extraindo Dados TXT - Mapeando a extração dos dados" /></p>
+
+<p>Acesse meu <a href="https://github.com/mateusblopes" target="_blank">GitHub</a>, faça download ou fork do meu repositório <a href="https://github.com/mateusblopes/trabalhando-com-ssis" target="_blank">Trabalhando com SSIS</a> e tenha acesso a este e outros arquivos de posts sobre o SSIS.</p>
