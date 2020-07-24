@@ -11,8 +11,8 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: https://mateusblopes.github.io/
-baseurl: https://mateusblopes.github.io/
+url: https://mateusblopes.github.io
+baseurl: https://mateusblopes.github.io
 title: Mateus Bruno T. Lopes
 author: Mateus Lopes
 description: Mateus Bruno T. Lopes - Consultor de Data Science | Scrum Master | Analytics | Power BI
