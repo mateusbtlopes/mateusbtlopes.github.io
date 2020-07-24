@@ -1,9 +1,8 @@
 User-agent: *
 Allow: /
-Allow: /blog.html
-Allow: /articles.html
-Allow: /projects.html
-Allow: /timeline.html
+Allow: /posts.html
+Allow: /artigo.html
+Allow: /portfolio.html
 Allow: /download-e-instalacao-notepad++-no-windows.html
 Allow: /download-e-instalacao-git-no-windows.html
 Allow: /download-e-instalacao-tortoisegit-no-windows.html
