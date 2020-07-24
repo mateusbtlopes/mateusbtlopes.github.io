@@ -10,6 +10,7 @@ layout: layout
 	</div>
 	<div class="blog-title">
 		<h4>
+			<!--{{ page.date | date: "%B %e, %Y" }}-->
 			{% for tag in page.tags %}
 			 <span class="label label-success">{{ tag }}</span>
 			{% endfor %}
@@ -24,13 +25,15 @@ layout: layout
 				   <h5>Confira outros posts relacionados a este que você acabou de ler:</h5>
 				   {% for post in site.related_posts limit:3 %}
 						<div class="row">
-							 <div class="col-sm-4 col-md-4 col-lg-4">
+<!--
+							<div class="col-sm-4 col-md-4 col-lg-4">
 								 <h6 style="text-align: right">
 								 	{{ post.date | date: "%B %e, %Y" }}
 								 </h6>
 							 </div>
+-->
 							 <div class="col-sm-8 col-md-8 col-lg-8">
-								 <h6 style="text-align: left">
+								 <h6 style="text-align: center">
 								 	<strong><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
 								 </h6>
 							 </div>
