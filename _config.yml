@@ -11,13 +11,13 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://mateusblopes.com.br
-baseurl: http://mateusblopes.com.br
+url: https://mateusblopes.github.io/
+baseurl: https://mateusblopes.github.io/
 title: Mateus Bruno T. Lopes
 author: Mateus Bruno T. Lopes
-description: Mateus Bruno T. Lopes falando sobre Processos, Testes e Business Intelligence.
+description: Mateus Bruno T. Lopes - Consultor de Data Science | Scrum Master | Analytics | Power BI
 avatar: profile.png
-email: mateus.redes@email.com
+email: mateus.redes@gmail.com
 github: mateusblopes # username
 twitter: mateusblopes
 linkedin: mateusblopes
