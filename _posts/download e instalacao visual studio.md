@@ -2,7 +2,7 @@
 layout: post
 title:  Download e Instalação do Visual Studio
 tags:
-- Visual Studio
+- '#VisualStudio'
 ---
 
 <p>Neste tutorial faremos o download e a instalação do Microsoft Visual Studio.</p>
