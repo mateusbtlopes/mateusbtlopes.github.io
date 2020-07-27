@@ -2,9 +2,9 @@
 layout: post
 title:  Instalando Selenium IDE no Firefox
 tags:
-- Testes Automatizados
-- Selenium IDE
-- Firefox
+- '#TestesAutomatizados"
+- '#Selenium IDE'
+- '#Firefox'
 ---
 
 <p>Neste tutorial instalaremos o Selenium IDE no navegador Mozilla Firefox.</p>
