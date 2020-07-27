@@ -11,7 +11,6 @@ Allow: /Downlod-e-instalacao-sql-server-integration-server-ssis.html
 Allow: /download-e-instalacao-microsoft-powerbi.html
 Allow: /download-e-instalacao-microsoft-sql-server.html
 Allow: /download-e-instalacao-tableau.html
-Allow: /selenium-webdriver
 Allow: /criando-projeto-e-pacotes-no-ssis.html
 Allow: /criando-conexoes-no-ssis.html
 Allow: /instalando-selenium-ide-no-firefox.html
