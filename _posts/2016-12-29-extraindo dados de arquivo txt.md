@@ -9,13 +9,13 @@ tags:
 
 <p>Neste tutorial criaremos um novo projeto no SSIS (SQL Server Integration Service) capaz de extrair dados de uma fonte de dados txt para outro arquivo txt.</p>
 
-<p>1. Abra o SQL Server Data Tools for Visual Studio, caso não o tenha instalado em seu computador, veja este post sobre como fazer <a href="https://mateusblopes.github.io/download-e-instalacao-sql-server-integration-service-ssis" target="_blank">Download e Instalação do SQL Server Integration Service - SSIS</a>, em seguida crie um projeto, caso nunca tenha feito isso, veja este post sobre <a href="https://mateusblopes.github.io/criando-projeto-e-pacotes-no-ssis.html" target="_blank">Como criar um projeto e pacotes no SSIS</a>.</p>
+<p>1. Abra o SQL Server Data Tools for Visual Studio, caso não o tenha instalado em seu computador, veja este post sobre como fazer <a href="https://mateusblopes.github.io/download-e-instalacao-sql-server-integration-service-ssis" target="_blank">Download e Instalação do SQL Server Integration Service - SSIS</a>, em seguida crie um projeto, caso nunca tenha feito isso, veja este post sobre <a href="https://mateusblopes.github.io/criando-projeto-e-pacotes-no-ssis" target="_blank">Como criar um projeto e pacotes no SSIS</a>.</p>
 
 <p>Neste tutorial executaremos um teste utilizando o Selenium IDE no navegador Mozilla Firefox, conforme prometido no post anterior sobre <a href="https://mateusblopes.github.io/instalando-selenium-ide-no-firefox" target="_blank">Como instalar o Selenium IDE no Firefox</a>.</p>
 
 <h3 id="heading3">Criando conexão com arquivo TXT</h3>
 
-<p>1. Para criar uma conexão com arquivo TXT, veja este post sobre <a href="https://mateusblopes.github.io/criando-conexoes-no-ssis.html" target="_blank">Como criar conexões no SSIS</a>.</p>
+<p>1. Para criar uma conexão com arquivo TXT, veja este post sobre <a href="https://mateusblopes.github.io/criando-conexoes-no-ssis" target="_blank">Como criar conexões no SSIS</a>.</p>
 
 <h3 id="heading3">Extraindo dados de um arquivo TXT para outro arquivo TXT</h3>
 
