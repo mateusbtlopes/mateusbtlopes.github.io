@@ -2,12 +2,12 @@
 layout: post
 title:  Executando Testes com Selenium IDE
 tags:
-- Testes Automatizados
-- Selenium IDE
-- Firefox
+- '#TestesAutomatizados"
+- '#Selenium IDE'
+- '#Firefox'
 ---
 
-<p>Neste tutorial executaremos um teste utilizando o Selenium IDE no navegador Mozilla Firefox, conforme prometido no post anterior sobre <a href="http://mateusblopes.com.br/instalando-selenium-ide-no-firefox.html" target="_blank">como instalar o Selenium IDE no Firefox</a>.</p>
+<p>Neste tutorial executaremos um teste utilizando o Selenium IDE no navegador Mozilla Firefox, conforme prometido no post anterior sobre <a href="http://mateusblopes.github.io/instalando-selenium-ide-no-firefox" target="_blank">como instalar o Selenium IDE no Firefox</a>.</p>
 
 <h3 id="heading3">Gravando um teste no Selenium IDE</h3>
 
@@ -19,7 +19,7 @@ tags:
 
 <p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/ExecutandoSeleniumIDE2.png" alt="Selenium IDE - Tela principal do Selenium IDE" /></p>
 
-<p>3. Volte ao Firefox e acesse o site que deseja testar, por exemplo <a href="http://mateusblopes.com.br/" target="_blank">http://mateusblopes.com.br/</a>.</p>
+<p>3. Volte ao Firefox e acesse o site que deseja testar, por exemplo <a href="http://mateusblopes.github.io/" target="_blank">http://mateusblopes.github.io/</a>.</p>
 
 <p>4. Ainda no Firefox, agora com o site já aberto, vamos clicar com o botão direito do mouse sobre qualquer parte "branca" do site e em seguida selecionar a opção "<strong>waitForTitle Mateus Bruno T. Lopes</strong>".</p>
 
