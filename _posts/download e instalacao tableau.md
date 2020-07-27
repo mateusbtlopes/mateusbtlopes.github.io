@@ -2,10 +2,10 @@
 layout: post
 title:  Download e Instalação do Tableau Desktop
 tags:
-- Tableau
-- Business Intelligence
-- Data Visualization
-- Self Service BI
+- '#Tableau'
+- '#BusinessIntelligence'
+- '#DataVisualization'
+- '#SelfServiceBI'
 ---
 
 <p>Neste tutorial faremos o download e a instalação da ferramenta de Data Visualization Tableau, categorizada como uma ferramenta que faz parte da novidade "Self Service BI", farei um post específico sobre este assunto em breve.</p>
