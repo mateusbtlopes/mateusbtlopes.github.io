@@ -1,4 +1,3 @@
-<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/ExtraindoDadosCSV13.png" alt="Extraindo Dados CSV - Adicionando Data Flow Control" height="200" width="400" style align="center"/></p>
 ---
 layout: post
 title:  Extraindo dados de arquivo CSV
@@ -7,6 +6,10 @@ tags:
 - '#BusinessIntelligence'
 - '#VisualStudio'
 ---
+
+<div style="text-align:center">
+<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/ExtraindoDadosCSV13.png" alt="Extraindo Dados CSV - Adicionando Data Flow Control" height="200" width="400"/></p>
+</div>
 
 <p>Neste tutorial criaremos um novo projeto no SSIS (SQL Server Integration Service) capaz de extrair dados de uma fonte de dados csv para outro arquivo csv.</p>
 
