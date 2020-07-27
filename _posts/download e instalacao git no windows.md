@@ -2,8 +2,8 @@
 layout: post
 title:  Download e Instalação do Git no Windows
 tags:
-- Git
-- Controle Versão
+- '#Git'
+- '#ControleVersão'
 ---
 
 <p>Neste tutorial faremos o download e a instalação do Git no Windows.</p>
