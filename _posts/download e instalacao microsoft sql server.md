@@ -2,8 +2,8 @@
 layout: post
 title:  Download e Instalação Microsoft SQL Server
 tags:
-- SQL Server
-- Banco de Dados
+- '#SQLServer'
+- '#Banco de Dados'
 ---
 
 <p>Neste tutorial faremos o download e a instalação do Microsoft SQL Server.</p>
