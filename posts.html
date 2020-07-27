@@ -16,6 +16,9 @@ title: Posts - Mateus Bruno T. Lopes
 				 </div>
 -->
 				 <!--<div class="col-sm-8 col-md-8 col-lg-8">-->
+					 {% for tag in page.tags %}
+						<span class="label label-success">{{ tag }}</span>
+					 {% endfor %}
 					 <h5 style="text-align: center">
 					 	<strong><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
 					 </h5>
