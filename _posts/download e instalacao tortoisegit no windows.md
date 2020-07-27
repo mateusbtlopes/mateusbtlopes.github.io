@@ -2,9 +2,9 @@
 layout: post
 title:  Download e Instalação TortoiseGit no Windows
 tags:
-- TortoiseGit
-- Git
-- Controle Versão
+- '#TortoiseGit'
+- Git'
+- '#ControleVersão'
 ---
 
 <p>Neste tutorial faremos o download e a instalação do Git no Windows.</p>
