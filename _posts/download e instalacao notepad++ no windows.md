@@ -2,8 +2,8 @@
 layout: post
 title:  Download e Instalação do Notepad++ no Windows
 tags:
-- Notepad++
-- Editor Avançado
+- '#Notepad++'
+- '#EditorAvançado'
 ---
 
 <p>Neste tutorial faremos o download e a instalação do Notepad++ no Windows.</p>
