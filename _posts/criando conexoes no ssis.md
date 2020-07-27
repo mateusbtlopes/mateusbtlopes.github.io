@@ -2,16 +2,16 @@
 layout: post
 title:  Criando conexões no SSIS
 tags:
-- SSIS
-- Business Intelligence
-- Visual Studio
+- '#SSIS'
+- '#BusinessIntelligence'
+- '#VisualStudio'
 ---
 
 <p>Neste tutorial criaremos um novo projeto no SSIS (SQL Server Integration Service) capaz de se conectar a diversas fontes de dados como bancos de dados, arquivos do tipo excel, csv e até txt.</p>
 
 <h3 id="heading3">Criando uma conexão com banco de dados SQL Server</h3>
 
-<p>1. Abra o SQL Server Data Tools for Visual Studio, caso não o tenha instalado em seu computador, veja este post sobre como fazer <a href="http://mateusblopes.com.br/Download-e-Instalacao-SQL-Server-Integration-Service-SSIS.html" target="_blank">Download e Instalação do SQL Server Integration Service - SSIS</a>, em seguida crie um projeto, caso nunca tenha feito isso, veja este post sobre <a href="http://mateusblopes.com.br/Criando-projeto-e-pacotes-no-SSIS.html" target="_blank">Como criar um projeto e pacotes no SSIS</a>.</p>
+<p>1. Abra o SQL Server Data Tools for Visual Studio, caso não o tenha instalado em seu computador, veja este post sobre como fazer <a href="http:/mateusblopes.github.io/download-e-instalacao-sql-server-integration-service-ssis" target="_blank">Download e Instalação do SQL Server Integration Service - SSIS</a>, em seguida crie um projeto, caso nunca tenha feito isso, veja este post sobre <a href="http://mateusblopes.github.io/criando-projeto-e-pacotes-no-ssis" target="_blank">Como criar um projeto e pacotes no SSIS</a>.</p>
 
 <p>2. Clique com botão direito do mouse sobre dentro da janela de "Connections Managers", em seguida selecione a opção "New OLE DB Connections".</p>
 
