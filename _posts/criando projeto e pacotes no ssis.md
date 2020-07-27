@@ -2,16 +2,16 @@
 layout: post
 title:  Criando projeto e pacotes no SSIS
 tags:
-- SSIS
-- Business Intelligence
-- Visual Studio
+- '#SSIS'
+- '#BusinessIntelligence'
+- '#VisualStudio'
 ---
 
 <p>Neste tutorial construiremos um novo projeto no SSIS (SQL Server Integration Service) e manipularemos alguns pacotes de exemplo.</p>
 
 <h3 id="heading3">Criando um novo projeto</h3>
 
-<p>1. Abra o SQL Server Data Tools for Visual Studio, caso não o tenha instalado em seu computador, veja este post sobre como fazer <a href="http://mateusblopes.com.br/Download-e-Instalacao-SQL-Server-Integration-Service-SSIS.html" target="_blank">Download e Instalação do SQL Server Integration Service - SSIS</a>.</p>
+<p>1. Abra o SQL Server Data Tools for Visual Studio, caso não o tenha instalado em seu computador, veja este post sobre como fazer <a href="http://mateusblopes.github.io/download-e-instalacao-sql-server-integration-service-ssis" target="_blank">Download e Instalação do SQL Server Integration Service - SSIS</a>.</p>
 
 <p>2. Na tela inicial/Start Page acesso a opção "File -> New -> Project". </p>
 
