@@ -3,8 +3,12 @@ layout: post
 title:  Download e Instalação Microsoft SQL Server
 tags:
 - '#SQLServer'
-- '#Banco de Dados'
+- '#BancodeDados'
 ---
+
+<div style="text-align:center">
+<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/SQLServerInstalacao17.png" alt="Download e Instalação Microsoft SQL Server" height="130" width="420"/></p>
+</div>
 
 <p>Neste tutorial faremos o download e a instalação do Microsoft SQL Server.</p>
 
