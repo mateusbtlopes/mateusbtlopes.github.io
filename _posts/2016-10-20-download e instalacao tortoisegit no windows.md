@@ -7,6 +7,10 @@ tags:
 - '#ControleVersão'
 ---
 
+<div style="text-align:center">
+<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/TortoiseGitInstalacao9.png" alt="Download e Instalação TortoiseGit no Windows" height="220" width="326"/></p>
+</div>
+
 <p>Neste tutorial faremos o download e a instalação do Git no Windows.</p>
 
 <h3 id="heading3">Download</h3>
