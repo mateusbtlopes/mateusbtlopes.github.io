@@ -3,7 +3,7 @@ layout: post
 title:  Download e Instalação TortoiseGit no Windows
 tags:
 - '#TortoiseGit'
-- Git'
+- '#Git'
 - '#ControleVersão'
 ---
 
