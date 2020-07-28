@@ -7,6 +7,10 @@ tags:
 - '#VisualStudio'
 ---
 
+<div style="text-align:center">
+<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/ExtraindoDadosTXT13.png" alt="Extraindo Dados TXT - Adicionando Data Flow Control" height="200" width="400"/></p>
+</div>
+
 <p>Neste tutorial criaremos um novo projeto no SSIS (SQL Server Integration Service) capaz de extrair dados de uma fonte de dados txt para outro arquivo txt.</p>
 
 <p>1. Abra o SQL Server Data Tools for Visual Studio, caso não o tenha instalado em seu computador, veja este post sobre como fazer <a href="https://mateusblopes.github.io/download-e-instalacao-sql-server-integration-service-ssis" target="_blank">Download e Instalação do SQL Server Integration Service - SSIS</a>, em seguida crie um projeto, caso nunca tenha feito isso, veja este post sobre <a href="https://mateusblopes.github.io/criando-projeto-e-pacotes-no-ssis" target="_blank">Como criar um projeto e pacotes no SSIS</a>.</p>
