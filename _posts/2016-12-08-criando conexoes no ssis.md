@@ -7,6 +7,10 @@ tags:
 - '#VisualStudio'
 ---
 
+<div style="text-align:center">
+<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/ConnectionsSSIS14.png" alt="Criando conexões no SSIS" height="160" width="450"/></p>
+</div>
+
 <p>Neste tutorial criaremos um novo projeto no SSIS (SQL Server Integration Service) capaz de se conectar a diversas fontes de dados como bancos de dados, arquivos do tipo excel, csv e até txt.</p>
 
 <h3 id="heading3">Criando uma conexão com banco de dados SQL Server</h3>
