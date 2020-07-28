@@ -7,6 +7,10 @@ tags:
 - '#Firefox'
 ---
 
+<div style="text-align:center">
+<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/ExecutandoSeleniumIDE11.png" alt="Executando Testes com Selenium IDE" height="250" width="250"/></p>
+</div>
+
 <p>Neste tutorial executaremos um teste utilizando o Selenium IDE no navegador Mozilla Firefox, conforme prometido no post anterior sobre <a href="http://mateusblopes.github.io/instalando-selenium-ide-no-firefox" target="_blank">como instalar o Selenium IDE no Firefox</a>.</p>
 
 <h3 id="heading3">Gravando um teste no Selenium IDE</h3>
