@@ -4,7 +4,12 @@ title:  Download e Instalação do Git no Windows
 tags:
 - '#Git'
 - '#ControleVersão'
+- '#Instalação'
 ---
+
+<div style="text-align:center">
+<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/GitInstalacao12.png" alt="Download e Instalação do Git no Windows" height="160" width="420"/></p>
+</div>
 
 <p>Neste tutorial faremos o download e a instalação do Git no Windows.</p>
 
