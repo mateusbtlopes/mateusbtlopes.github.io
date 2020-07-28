@@ -5,7 +5,7 @@ layout: layout
 <div class="container">
 	<div class="blog-post">
 		<h3>
-		  <strong><a href="{{ page.url }}">{{ page.title }}</a></strong>
+		  <strong><p>{{ page.title }}</p></strong>
 		</h3>
 	</div>
 	<div class="blog-title">
@@ -34,7 +34,7 @@ layout: layout
 -->
 							 <!--<div class="col-sm-8 col-md-8 col-lg-8">-->
 								 <h6 style="text-align: center">
-								 	<strong><p>{{ post.title }}</p></strong>
+								 	<strong><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
 								 </h6>
 							 <!--</div>-->
 						</div>
