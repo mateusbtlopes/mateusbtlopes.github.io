@@ -5,6 +5,10 @@ tags:
 - '#VisualStudio'
 ---
 
+<div style="text-align:center">
+<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/VisualStudio5.png" alt="Instalando Selenium IDE no Firefox" height="180" width="480"/></p>
+</div>
+
 <p>Neste tutorial faremos o download e a instalação do Microsoft Visual Studio.</p>
 
 <h3 id="heading3">Download</h3>
