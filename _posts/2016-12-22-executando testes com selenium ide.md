@@ -2,7 +2,7 @@
 layout: post
 title:  Executando Testes com Selenium IDE
 tags:
-- '#TestesAutomatizados"
+- '#TestesAutomatizados'
 - '#Selenium IDE'
 - '#Firefox'
 ---
