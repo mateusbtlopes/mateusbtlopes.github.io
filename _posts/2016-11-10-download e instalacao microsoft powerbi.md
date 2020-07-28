@@ -8,6 +8,10 @@ tags:
 - '#SelfServiceBI'
 ---
 
+<div style="text-align:center">
+<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/PowerBI8.png" alt="Download e Instalação Microsoft PowerBI Desktop" height="100" width="400"/></p>
+</div>
+
 <p>Neste tutorial faremos o download e a instalação da ferramenta de Data Visualization categorizada como uma ferramenta que faz parte da novidade "Self Service BI", farei um post específico sobre este assunto em breve.</p>
 
 <h3 id="heading3">Download</h3>
