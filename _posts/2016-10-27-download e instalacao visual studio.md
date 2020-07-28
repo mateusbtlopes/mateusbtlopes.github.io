@@ -3,6 +3,7 @@ layout: post
 title:  Download e Instalação do Visual Studio
 tags:
 - '#VisualStudio'
+- '#Instalação'
 ---
 
 <div style="text-align:center">
