@@ -7,6 +7,10 @@ tags:
 - '#VisualStudio'
 ---
 
+<div style="text-align:center">
+<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/ProjectSSIS6.png" alt="Criando projeto e pacotes no SSIS" height="160" width="450"/></p>
+</div>
+
 <p>Neste tutorial construiremos um novo projeto no SSIS (SQL Server Integration Service) e manipularemos alguns pacotes de exemplo.</p>
 
 <h3 id="heading3">Criando um novo projeto</h3>
