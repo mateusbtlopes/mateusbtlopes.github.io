@@ -11,14 +11,14 @@ title: Posts - Mateus Bruno T. Lopes
 					<h5 style="text-align: center">
 						<!-- <strong>{{ post.categories }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>-->
 						{% assign my_string = post.categories %}
-						{% if my_string == 'github' %}
+						{% if my_string = 'github' %}
 						<strong><i class="fa fa-github">&nbsp;&nbsp;</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
 						{% endif %}	
 						{% if my_string == linkedin %}
 						<strong><i class="fa fa-linkedin">&nbsp;&nbsp;</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
 						{% endif %}	
 						{% if my_string != linkedin or my_string != 'github'%}
-						<strong>{{ my_string }}<i class="fa fa-linkedin"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+						<strong>{{ my_string }}<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
 						{% endif %}	
 					</h5>
 				</div>
