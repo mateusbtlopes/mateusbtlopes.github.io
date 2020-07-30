@@ -5,6 +5,7 @@ tags:
 - '#SSIS'
 - '#BusinessIntelligence'
 - '#VisualStudio'
+category: [linkedin]
 ---
 
 <div style="text-align:center">
