@@ -3,24 +3,21 @@ layout: layout
 title: Posts - Mateus Bruno T. Lopes
 ---
 <div class="container">
-<h3>Posts</h3>
-  <div class="panel panel-default">
-    <div class="panel-body">
-		{% for post in site.posts %}
-			<div class="row">
-<!--				 <div class="col-sm-4 col-md-4 col-lg-4">
-					 <h5 style="text-align: right">
-					 	{{ post.date | date: "%B %e, %Y" }}
-					 </h5>
-				 </div>
--->
-				 <!--<div class="col-sm-8 col-md-8 col-lg-8">-->
-					 <h5 style="text-align: center">
-					 	<strong>{{ post.categories }} - {{ post.categories.CATEGORY }} - {{ site.categories }} - {{ site.categories.CATEGORY }} - {{ site.tags.TAG }}<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
-					 </h5>
-				 <!--</div>-->
-			</div>
-	    {% endfor %}
+	<h3>Posts</h3>
+	<div class="panel panel-default">
+		<div class="panel-body">
+			{% for post in site.posts %}
+				<div class="row">
+					<h5 style="text-align: center">
+						<!-- <strong>{{ post.categories }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>-->
+						{% if post.categories == "github" %}
+						<strong><i class="fa fa-github">&nbsp;&nbsp;</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+						{% elsif post.categories == "linkedin" %}
+						<strong><i class="fa fa-linkedin">&nbsp;&nbsp;</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+						{% endif %}	
+					</h5>
+				</div>
+			{% endfor %}
+		</div>
 	</div>
-  </div>
 </div>
