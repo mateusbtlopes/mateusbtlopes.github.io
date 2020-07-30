@@ -16,10 +16,7 @@ title: Posts - Mateus Bruno T. Lopes
 						{% endfor %}
 						{% for {{post.categories}} == "linkedin" %}
 						<strong><i class="fa fa-linkedin">&nbsp;&nbsp;</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
-						{% endfor %}	
-						{% for {{post.categories}} != "linkedin" or {{post.categories}} != "github" %}
-						<strong>{{post.categories}}<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
-						{% endfor %}	
+						{% endfor %}
 					</h5>
 				</div>
 			{% endfor %}
