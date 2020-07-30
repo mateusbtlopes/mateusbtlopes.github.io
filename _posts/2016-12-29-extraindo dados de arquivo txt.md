@@ -5,7 +5,7 @@ tags:
 - '#SSIS'
 - '#BusinessIntelligence'
 - '#VisualStudio'
-category: [linkedin]
+category: [<i class="fa fa-github"></i>]
 ---
 
 <div style="text-align:center">
