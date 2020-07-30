@@ -17,7 +17,7 @@ title: Posts - Mateus Bruno T. Lopes
 						<strong><i class="fa fa-linkedin">&nbsp;&nbsp;</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
 						{% endif %}	
 						{% if post.categories.category != "linkedin" or post.categories.category != "github" %}
-						<strong>{{ post.categories }}<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+						<strong>{{ post.categories.category }}<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
 						{% endif %}	
 					</h5>
 				</div>
