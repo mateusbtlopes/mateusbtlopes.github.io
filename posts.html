@@ -11,12 +11,45 @@ title: Posts - Mateus Bruno T. Lopes
 					<h5 style="text-align: center">
 						<!-- <strong>{{ post.categories }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>-->
 
-						{% for {{post.categories}} == "github" %}
-						<strong><i class="fa fa-github">&nbsp;&nbsp;</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
-						{% endfor %}
-						{% for {{post.categories}} == "linkedin" %}
-						<strong><i class="fa fa-linkedin">&nbsp;&nbsp;</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
-						{% endfor %}
+						{% if {{post.categories}} == "github" %}
+						<strong><i class="fa fa-github">&nbsp;&nbsp;1</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+						{% endif %}	
+						{% if {{post.categories}} == "linkedin" %}
+						<strong><i class="fa fa-linkedin">&nbsp;&nbsp;2</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+						{% endif %}	
+						{% if {{post.categories}} == 'github' %}
+						<strong><i class="fa fa-linkedin">&nbsp;&nbsp;3</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+						{% endif %}
+						{% if {{post.categories}} == 'linkedin' %}
+						<strong><i class="fa fa-linkedin">&nbsp;&nbsp;4</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+						{% endif %}
+						{% if {{post.categories}} == github %}
+						<strong><i class="fa fa-linkedin">&nbsp;&nbsp;5</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+						{% endif %}
+						{% if {{post.categories}} == linkedin %}
+						<strong><i class="fa fa-linkedin">&nbsp;&nbsp;6</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+						{% endif %}
+						{% if {{post.categories}} = "github" %}
+						<strong><i class="fa fa-github">&nbsp;&nbsp;7</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+						{% endif %}	
+						{% if {{post.categories}} = "linkedin" %}
+						<strong><i class="fa fa-linkedin">&nbsp;&nbsp;8</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+						{% endif %}	
+						{% if {{post.categories}} = 'github' %}
+						<strong><i class="fa fa-linkedin">&nbsp;&nbsp;9</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+						{% endif %}
+						{% if {{post.categories}} = 'linkedin' %}
+						<strong><i class="fa fa-linkedin">&nbsp;&nbsp;10</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+						{% endif %}
+						{% if {{post.categories}} = github %}
+						<strong><i class="fa fa-linkedin">&nbsp;&nbsp;11</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+						{% endif %}
+						{% if {{post.categories}} = linkedin %}
+						<strong><i class="fa fa-linkedin">&nbsp;&nbsp;12</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+						{% endif %}
+						{% if {{post.categories}} != "linkedin" or {{post.categories}} != "github" %}
+						<strong>{{post.categories}}13<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+						{% endif %}	
 					</h5>
 				</div>
 			{% endfor %}
