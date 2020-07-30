@@ -12,8 +12,12 @@ title: Posts - Mateus Bruno T. Lopes
 						<!-- <strong>{{ post.categories }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>-->
 						{% if post.categories == "github" %}
 						<strong><i class="fa fa-github">&nbsp;&nbsp;</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
-						{% elsif post.categories == "linkedin" %}
+						{% endif %}	
+						{% if post.categories == "linkedin" %}
 						<strong><i class="fa fa-linkedin">&nbsp;&nbsp;</i><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
+						{% endif %}	
+						{% if post.categories != "linkedin" or post.categories != "github"%}
+						<strong>{{ post.categories }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
 						{% endif %}	
 					</h5>
 				</div>
