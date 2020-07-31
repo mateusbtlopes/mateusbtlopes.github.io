@@ -15,7 +15,9 @@ category: [<i class="fa fa-linkedin"></i>]
 <p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/PlataformasPowerBI0.png" alt="Conheça as plataformas do Power BI (Desktop, serviço e para celulares)" height="280" width="600"/></p>
 </div>
 
+<div style="text-align:center">
 <p>Conheça as plataformas do <i>Power BI (Desktop, serviço e para celulares)</i>.</p>
+</div>
 
 <p>Para os que ainda não o conhecem, o <a href="https://powerbi.microsoft.com/pt-br/what-is-power-bi/" target="_blank">Power BI</a> é uma ferramenta de visualização de dados lançada pela <i>Microsoft</i> no ano de 2015.</p>
 
@@ -39,11 +41,11 @@ category: [<i class="fa fa-linkedin"></i>]
 
 <h3 id="heading3">POWER BI SERVIÇO</h3>
 
-<p>Esta é uma plataforma baseada em nuvem e seu acesso é exclusivamente via web, pelo endereço: http://app.powerbi.com/.
+<p>Esta é uma plataforma baseada em nuvem e seu acesso é exclusivamente via web, pelo endereço: http://app.powerbi.com/.</p>
 
-<p>Nela é possível provisionar espaço para os dados importados e publicados dos relatórios construídos no <i>Power BI Desktop</i>.
+<p>Nela é possível provisionar espaço para os dados importados e publicados dos relatórios construídos no <i>Power BI Desktop</i>.</p>
 
-<p>A plataforma de Serviço se diferencia da Desktop, por duas características:
+<p>A plataforma de Serviço se diferencia da Desktop, por duas características:</p>
 
 <ul>
 	<li>A primeira por necessitar de uma conta;</li>
