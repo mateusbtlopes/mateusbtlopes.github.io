@@ -11,19 +11,19 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: https://mateusblopes.github.io
-baseurl: https://mateusblopes.github.io
+url: https://mateusbtlopes.github.io
+baseurl: https://mateusbtlopes.github.io
 title: Mateus Bruno T. Lopes
 author: Mateus Lopes
 description: Mateus Bruno T. Lopes - Consultor de Data Science | Scrum Master | Analytics | Power BI
 avatar: profile.png
 email: mateus.redes@gmail.com
-github: mateusblopes # username
-twitter: mateusblopes
-linkedin: mateusblopes
-instagram: mateusbtlopes
+github: mateusbtlopes # username
+twitter: mateusbtlopes # username
+linkedin: mateusbtlopes # username
+instagram: mateusbtlopes # username
 #Comment out if you don't want disqus 
-#disqus: mateusblopes
+#disqus: mateusbtlopes
 google_analytics: UA-86360610-1
 
 # needed for travis-ci build
