@@ -11,7 +11,7 @@ category: [<i class="fa fa-linkedin"></i>]
 ---
 
 <div style="text-align:center">
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/ImportDirectQueryPowerBI0" alt="Utilizar Importação ou DirectQuery no Power BI?" height="280" width="600"/></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/ImportDirectQueryPowerBI0.png" alt="Utilizar Importação ou DirectQuery no Power BI?" height="280" width="600"/></p>
 </div>
 
 <div style="text-align:center">
