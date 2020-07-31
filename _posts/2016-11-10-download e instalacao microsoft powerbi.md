@@ -9,7 +9,7 @@ tags:
 ---
 
 <div style="text-align:center">
-<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/PowerBI8.png" alt="Download e Instalação Microsoft PowerBI Desktop" height="100" width="400"/></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/PowerBI8.png" alt="Download e Instalação Microsoft PowerBI Desktop" height="100" width="400"/></p>
 </div>
 
 <p>Neste tutorial faremos o download e a instalação da ferramenta de Data Visualization categorizada como uma ferramenta que faz parte da novidade "Self Service BI", farei um post específico sobre este assunto em breve.</p>
@@ -20,7 +20,7 @@ tags:
 
 <p>2. Selecione o idioma e clique no link <strong>"Download"</strong> para fazer o download do software. </p>
 
-<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/PowerBI1.png" alt="PowerBI Desktop - Download PowerBI Desktop" /></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/PowerBI1.png" alt="PowerBI Desktop - Download PowerBI Desktop" /></p>
 
 <hr/>
 
@@ -28,24 +28,24 @@ tags:
 
 <p>1. Execute o instalador que acabamos de fazer download e uma tela semelhante a abaixo aparecerá de boas vindas à instalação.</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/PowerBI2.png" alt="Power BI - Boas vindas a instalação" /></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/PowerBI2.png" alt="Power BI - Boas vindas a instalação" /></p>
 
 <p>2. Marque a opção para aceitar os termos da licença de uso da ferramenta.</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/PowerBI3.png" alt="Power BI - Licença de Uso" /></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/PowerBI3.png" alt="Power BI - Licença de Uso" /></p>
 
 <p>3. Nesta parte o instalador exibe o local/diretório de instalação do software e permite que o usuário faça a instalação onde quiser.</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/PowerBI4.png" alt="Power BI - Diretório de instalação" /></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/PowerBI4.png" alt="Power BI - Diretório de instalação" /></p>
 
 <p>4. Nesta parte o instalador está pronto para executar a instalação da ferramenta.</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/PowerBI5.png" alt="Power BI - Pronto para instalação" /></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/PowerBI5.png" alt="Power BI - Pronto para instalação" /></p>
 
 <p>5. Aguarde o processo de instalação ser concluído.</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/PowerBI6.png" alt="Power BI - Processo de Instalação" /></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/PowerBI6.png" alt="Power BI - Processo de Instalação" /></p>
 
 <p>6. Ao final do processo de instalação temos o Microsoft PowerBI Desktop instalado e pronto para ser usado.</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusblopes/mateusblopes.github.io/master/_posts/img/PowerBI7.png" alt="Power BI - Instalação Concluída" /></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/PowerBI7.png" alt="Power BI - Instalação Concluída" /></p>
