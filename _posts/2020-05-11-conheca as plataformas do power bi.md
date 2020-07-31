@@ -16,7 +16,7 @@ category: [<i class="fa fa-linkedin"></i>]
 </div>
 
 <div style="text-align:center">
-<p><i>Conheça as plataformas do <i>Power BI (Desktop, serviço e para celulares)</i>.</p>
+<p><i>Conheça as plataformas do Power BI (Desktop, serviço e para celulares)</i>.</p>
 </div>
 
 <p>Para os que ainda não o conhecem, o <a href="https://powerbi.microsoft.com/pt-br/what-is-power-bi/" target="_blank">Power BI</a> é uma ferramenta de visualização de dados lançada pela <i>Microsoft</i> no ano de 2015.</p>

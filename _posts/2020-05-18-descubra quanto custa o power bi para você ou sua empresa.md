@@ -16,7 +16,7 @@ category: [<i class="fa fa-linkedin"></i>]
 </div>
 
 <div style="text-align:center">
-<p><i>Licenciamento do <i>Power BI (Gratuito, PRO e Premium)</i>.</p>
+<p><i>Licenciamento do Power BI (Gratuito, PRO e Premium)</i>.</p>
 </div>
 
 <p>O <i>Power BI</i> é uma ferramenta de visualização de dados lançada pela <i>Microsoft</i> no ano de 2015 para atender desde necessidades caseiras ou pessoais à grandes empresas.</p>
