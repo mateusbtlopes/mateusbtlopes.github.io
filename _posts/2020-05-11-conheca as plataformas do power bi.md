@@ -16,7 +16,7 @@ category: [<i class="fa fa-linkedin"></i>]
 </div>
 
 <div style="text-align:center">
-<p>Conheça as plataformas do <i>Power BI (Desktop, serviço e para celulares)</i>.</p>
+<p><i>Conheça as plataformas do <i>Power BI (Desktop, serviço e para celulares)</i>.</p>
 </div>
 
 <p>Para os que ainda não o conhecem, o <a href="https://powerbi.microsoft.com/pt-br/what-is-power-bi/" target="_blank">Power BI</a> é uma ferramenta de visualização de dados lançada pela <i>Microsoft</i> no ano de 2015.</p>
@@ -41,7 +41,7 @@ category: [<i class="fa fa-linkedin"></i>]
 
 <h3 id="heading3">POWER BI SERVIÇO</h3>
 
-<p>Esta é uma plataforma baseada em nuvem e seu acesso é exclusivamente via web, pelo endereço: http://app.powerbi.com/.</p>
+<p>Esta é uma plataforma baseada em nuvem e seu acesso é exclusivamente via web, pelo endereço: <a href="http://app.powerbi.com/" target="_blank">http://app.powerbi.com/</a>.</p>
 
 <p>Nela é possível provisionar espaço para os dados importados e publicados dos relatórios construídos no <i>Power BI Desktop</i>.</p>
 
