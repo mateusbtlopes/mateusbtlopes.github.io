@@ -9,12 +9,12 @@ category: [<i class="fa fa-github"></i>]
 ---
 
 <div style="text-align:center">
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/ExtraindoDadosCSV13.png" alt="Extraindo Dados CSV - Adicionando Data Flow Control" height="200" width="400"/></p>
+<p><img src="../_posts/img/ExtraindoDadosCSV13.png" alt="Extraindo Dados CSV - Adicionando Data Flow Control" height="200" width="400"/></p>
 </div>
 
 <p>Neste tutorial criaremos um novo projeto no SSIS (SQL Server Integration Service) capaz de extrair dados de uma fonte de dados csv para outro arquivo csv.</p>
 
-<p>1. Abra o SQL Server Data Tools for Visual Studio, caso não o tenha instalado em seu computador, veja este post sobre como fazer <a href="{{ site.baseurl }}/download-e-instalacao-sql-server-integration-service-ssis" target="_blank">Download e Instalação do SQL Server Integration Service - SSIS</a>, em seguida crie um projeto, caso nunca tenha feito isso, veja este post sobre <a href="http://mateusbtlopes.github.io/criando-projeto-e-pacotes-no-ssis" target="_blank">Como criar um projeto e pacotes no SSIS</a>.</p>
+<p>1. Abra o SQL Server Data Tools for Visual Studio, caso não o tenha instalado em seu computador, veja este post sobre como fazer <a href="http://mateusbtlopes.github.io/download-e-instalacao-sql-server-integration-service-ssis" target="_blank">Download e Instalação do SQL Server Integration Service - SSIS</a>, em seguida crie um projeto, caso nunca tenha feito isso, veja este post sobre <a href="http://mateusbtlopes.github.io/criando-projeto-e-pacotes-no-ssis" target="_blank">Como criar um projeto e pacotes no SSIS</a>.</p>
 
 <p>Neste tutorial executaremos um teste utilizando o Selenium IDE no navegador Mozilla Firefox, conforme prometido no post anterior sobre <a href="http://mateusbtlopes.github.io/instalando-selenium-ide-no-firefox" target="_blank">como instalar o Selenium IDE no Firefox</a>.</p>
 
