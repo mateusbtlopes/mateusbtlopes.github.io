@@ -15,15 +15,14 @@ url: https://mateusbtlopes.github.io
 baseurl: https://mateusbtlopes.github.io
 title: Mateus Bruno T. Lopes
 author: Mateus Lopes
-description: Mateus Bruno T. Lopes - Consultor de Data Science | Scrum Master | Analytics | Power BI
-avatar: profile.png
-email: mateus.redes@gmail.com
+keywords: Project Manager, Scrum Master, Product Owner, Data Science, Ciência de Dados, Analytics, Power BI, BI, Redes de Computadores, Teste de Software.
+description: Mateus Bruno T. Lopes - consultor de projetos de Ciência de Dados. Tecnólogo em Redes de Computadores, Especialista em Teste de Software, BI e Analytics. Project Manager | Scrum Master | Product Owner | Analytics | Power BI.
+avatar: profile.png # picture
+email: mateus.redes@gmail.com # email
 github: mateusbtlopes # username
 twitter: mateusbtlopes # username
 linkedin: mateusbtlopes # username
 instagram: mateusbtlopes # username
-#Comment out if you don't want disqus 
-#disqus: mateusbtlopes
 google_analytics: UA-86360610-1
 
 # needed for travis-ci build
