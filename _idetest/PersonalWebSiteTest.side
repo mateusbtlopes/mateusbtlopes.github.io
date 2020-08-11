@@ -1,0 +1,1290 @@
+{
+  "id": "7f3a1b7a-c1d2-4ec6-9abb-ccf79605df34",
+  "version": "2.0",
+  "name": "PersonalWebSiteTest",
+  "url": "https://mateusbtlopes.github.io",
+  "tests": [{
+    "id": "693b3416-3284-401b-a471-23920f7cef50",
+    "name": "NavegacaoTest",
+    "commands": [{
+      "id": "ef644aa4-0bba-4dae-8efe-f2d7c94553dd",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "80602df8-c221-4514-9d5b-eabc2be66312",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1280x768",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ff49968e-e0cb-4ed0-9665-94fbf536ec47",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=strong",
+      "targets": [
+        ["css=strong", "css:finder"],
+        ["xpath=//section[@id='about']/div/h4/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Mateus Lopes')]", "xpath:innerText"]
+      ],
+      "value": "Mateus Lopes"
+    }, {
+      "id": "f9f40be8-4a43-4f5e-8364-1771f5fb16ba",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fa-home",
+      "targets": [
+        ["css=.fa-home", "css:finder"],
+        ["xpath=//div[@id='wrap']/nav/div/div/a/i", "xpath:idRelative"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "686df463-0312-45b3-b780-58ac5edff9ee",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=strong",
+      "targets": [
+        ["css=strong", "css:finder"],
+        ["xpath=//section[@id='about']/div/h4/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Mateus Lopes')]", "xpath:innerText"]
+      ],
+      "value": "Mateus Lopes"
+    }, {
+      "id": "038b8126-6fcf-498b-b23b-035871d79273",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=PORTFOLIO",
+      "targets": [
+        ["linkText=PORTFOLIO", "linkText"],
+        ["css=li:nth-child(1) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'PORTFOLIO')]", "xpath:link"],
+        ["xpath=//div[@id='navbar']/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/portfolio')]", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'PORTFOLIO')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "91e913b8-ba77-4d28-b7b5-3a095ef6590d",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h3",
+      "targets": [
+        ["css=h3", "css:finder"],
+        ["xpath=//section[@id='portfolio']/div/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'Portfolio')]", "xpath:innerText"]
+      ],
+      "value": "Portfolio"
+    }, {
+      "id": "54807848-3f56-4694-af4f-5418c065725d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fa-home",
+      "targets": [
+        ["css=.fa-home", "css:finder"],
+        ["xpath=//div[@id='wrap']/nav/div/div/a/i", "xpath:idRelative"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "27f5d6af-b6e7-44fe-9b6c-730baa93ec0b",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=strong",
+      "targets": [
+        ["css=strong", "css:finder"],
+        ["xpath=//section[@id='about']/div/h4/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Mateus Lopes')]", "xpath:innerText"]
+      ],
+      "value": "Mateus Lopes"
+    }, {
+      "id": "eb5cab56-bc9f-4e64-9a25-f57076e945f3",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=POSTS",
+      "targets": [
+        ["linkText=POSTS", "linkText"],
+        ["css=li:nth-child(2) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'POSTS')]", "xpath:link"],
+        ["xpath=//div[@id='navbar']/ul/li[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/posts')]", "xpath:href"],
+        ["xpath=//li[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'POSTS')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "9db904c8-2598-4efa-8b86-c46b7e5a7259",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h3",
+      "targets": [
+        ["css=h3", "css:finder"],
+        ["xpath=//div[@id='wrap']/div/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'Posts')]", "xpath:innerText"]
+      ],
+      "value": "Posts"
+    }, {
+      "id": "7064effe-5e54-4b0a-a959-dcf70dfb5dda",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fa-home",
+      "targets": [
+        ["css=.fa-home", "css:finder"],
+        ["xpath=//div[@id='wrap']/nav/div/div/a/i", "xpath:idRelative"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b243f0a8-a2f0-40b8-a065-523b6f2bd518",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=strong",
+      "targets": [
+        ["css=strong", "css:finder"],
+        ["xpath=//section[@id='about']/div/h4/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Mateus Lopes')]", "xpath:innerText"]
+      ],
+      "value": "Mateus Lopes"
+    }, {
+      "id": "85381c04-99de-4fad-8c49-ea25971952dd",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=PARCERIAS",
+      "targets": [
+        ["linkText=PARCERIAS", "linkText"],
+        ["css=li:nth-child(3) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'PARCERIAS')]", "xpath:link"],
+        ["xpath=//div[@id='navbar']/ul/li[3]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/parcerias')]", "xpath:href"],
+        ["xpath=//li[3]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'PARCERIAS')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "f501efeb-9c4a-4c01-b9c8-ba3022dc7522",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h3",
+      "targets": [
+        ["css=h3", "css:finder"],
+        ["xpath=//section[@id='parcerias']/div/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'Parcerias')]", "xpath:innerText"]
+      ],
+      "value": "Parcerias"
+    }, {
+      "id": "4b6bb6cd-07d7-4f6d-a4a1-a78df6f97d9f",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fa-home",
+      "targets": [
+        ["css=.fa", "css:finder"],
+        ["xpath=//div[@id='wrap']/nav/div/div/a/i", "xpath:idRelative"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "bbbf7075-b395-443b-99df-600b15701479",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=strong",
+      "targets": [
+        ["css=strong", "css:finder"],
+        ["xpath=//section[@id='about']/div/h4/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Mateus Lopes')]", "xpath:innerText"]
+      ],
+      "value": "Mateus Lopes"
+    }, {
+      "id": "e0edebc7-0366-43da-9d16-5eac623dfe71",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=ARTIGOS",
+      "targets": [
+        ["linkText=ARTIGOS", "linkText"],
+        ["css=li:nth-child(4) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'ARTIGOS')]", "xpath:link"],
+        ["xpath=//div[@id='navbar']/ul/li[4]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/artigo')]", "xpath:href"],
+        ["xpath=//li[4]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'ARTIGOS')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "5e225cff-e633-49ca-bfa2-fe51e6f2b3a2",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h3",
+      "targets": [
+        ["css=h3", "css:finder"],
+        ["xpath=//section[@id='artigos']/div/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'Artigos')]", "xpath:innerText"]
+      ],
+      "value": "Artigos"
+    }, {
+      "id": "7b5ffe4f-cd94-42ca-b03f-2631ef471c58",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fa-home",
+      "targets": [
+        ["css=.fa", "css:finder"],
+        ["xpath=//div[@id='wrap']/nav/div/div/a/i", "xpath:idRelative"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b20be9b6-c5a5-4666-8753-03174b86a661",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=strong",
+      "targets": [
+        ["css=strong", "css:finder"],
+        ["xpath=//section[@id='about']/div/h4/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Mateus Lopes')]", "xpath:innerText"]
+      ],
+      "value": "Mateus Lopes"
+    }, {
+      "id": "1db6596b-4c82-48be-a415-3e1aab3091a4",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "576b713e-ff0d-4b5d-b0ac-12d86fe30fe4",
+    "name": "PortfolioTest",
+    "commands": [{
+      "id": "fd41fb9c-f834-4548-9510-05471ab25be3",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b444800f-d502-4dc2-99cb-609b50107a14",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1280x768",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c657dce7-a37c-4252-af34-67fb590b352d",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=strong",
+      "targets": [
+        ["css=strong", "css:finder"],
+        ["xpath=//section[@id='about']/div/h4/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Mateus Lopes')]", "xpath:innerText"]
+      ],
+      "value": "Mateus Lopes"
+    }, {
+      "id": "aab14ab9-e261-46a1-9890-4f4116ee6548",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fa-home",
+      "targets": [
+        ["css=.fa-home", "css:finder"],
+        ["xpath=//div[@id='wrap']/nav/div/div/a/i", "xpath:idRelative"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "6ad3bea7-140b-4ca4-92d9-2fb2d0fa5516",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=strong",
+      "targets": [
+        ["css=strong", "css:finder"],
+        ["xpath=//section[@id='about']/div/h4/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Mateus Lopes')]", "xpath:innerText"]
+      ],
+      "value": "Mateus Lopes"
+    }, {
+      "id": "6e2bd9b8-4e26-42b7-953c-ce03a8215801",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=PORTFOLIO",
+      "targets": [
+        ["linkText=PORTFOLIO", "linkText"],
+        ["css=li:nth-child(1) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'PORTFOLIO')]", "xpath:link"],
+        ["xpath=//div[@id='navbar']/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/portfolio')]", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'PORTFOLIO')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b709c4c6-4b79-4abf-beec-427d7fea04e2",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h3",
+      "targets": [
+        ["css=h3", "css:finder"],
+        ["xpath=//section[@id='portfolio']/div/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'Portfolio')]", "xpath:innerText"]
+      ],
+      "value": "Portfolio"
+    }, {
+      "id": "318932f5-8b44-4959-a4ef-f80b6ca83332",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Artigos",
+      "targets": [
+        ["linkText=Artigos", "linkText"],
+        ["css=h5:nth-child(1) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Artigos')]", "xpath:link"],
+        ["xpath=//section[@id='portfolio']/div/div/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://github.com/mateusblopes/artigos')]", "xpath:href"],
+        ["xpath=//strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Artigos')]", "xpath:innerText"]
+      ],
+      "value": "Artigos"
+    }, {
+      "id": "72f7d9ae-13f4-428f-93a3-8eaa9f523e2b",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h5:nth-child(1) > p > i",
+      "targets": [
+        ["css=h5:nth-child(1) > p > i", "css:finder"],
+        ["xpath=//section[@id='portfolio']/div/div/h5/p/i", "xpath:idRelative"],
+        ["xpath=//p/i", "xpath:position"],
+        ["xpath=//i[contains(.,'Repositório destinado à artigos e papers submetidos em eventos.')]", "xpath:innerText"]
+      ],
+      "value": "Repositório destinado à artigos e papers submetidos em eventos."
+    }, {
+      "id": "58665c1e-90e3-48ef-aef2-4cccef41d2c5",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Simulador Loteria",
+      "targets": [
+        ["linkText=Simulador Loteria", "linkText"],
+        ["css=h5:nth-child(2) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Simulador Loteria')]", "xpath:link"],
+        ["xpath=//section[@id='portfolio']/div/div/h5[2]/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://github.com/mateusblopes/simuladorLoteria')]", "xpath:href"],
+        ["xpath=//h5[2]/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Simulador Loteria')]", "xpath:innerText"]
+      ],
+      "value": "Simulador Loteria"
+    }, {
+      "id": "7dd086cd-bf40-4e7f-84ea-9077b6b1eabb",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h5:nth-child(2) > p > i",
+      "targets": [
+        ["css=h5:nth-child(2) > p > i", "css:finder"],
+        ["xpath=//section[@id='portfolio']/div/div/h5[2]/p/i", "xpath:idRelative"],
+        ["xpath=//h5[2]/p/i", "xpath:position"],
+        ["xpath=//i[contains(.,'Repositório destinado a simulação de sorteio da loteria federal brasileira criado em HTML, JavaScript, CSS.')]", "xpath:innerText"]
+      ],
+      "value": "Repositório destinado a simulação de sorteio da loteria federal brasileira criado em HTML, JavaScript, CSS."
+    }, {
+      "id": "f4377981-73e7-451e-b2a4-82061f5852f0",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Selenium WebDriver",
+      "targets": [
+        ["linkText=Selenium WebDriver", "linkText"],
+        ["css=h5:nth-child(3) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Selenium WebDriver')]", "xpath:link"],
+        ["xpath=//section[@id='portfolio']/div/div/h5[3]/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://github.com/mateusblopes/selenium-webdriver')]", "xpath:href"],
+        ["xpath=//h5[3]/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Selenium WebDriver')]", "xpath:innerText"]
+      ],
+      "value": "Selenium WebDriver"
+    }, {
+      "id": "8c97911e-d530-43d3-a01e-c65fa08c0e1c",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h5:nth-child(3) > p > i",
+      "targets": [
+        ["css=h5:nth-child(3) > p > i", "css:finder"],
+        ["xpath=//section[@id='portfolio']/div/div/h5[3]/p/i", "xpath:idRelative"],
+        ["xpath=//h5[3]/p/i", "xpath:position"],
+        ["xpath=//i[contains(.,'Automatizando testes com Selenium WebDriver em C# utilizando Page Objects.')]", "xpath:innerText"]
+      ],
+      "value": "Automatizando testes com Selenium WebDriver em C# utilizando Page Objects."
+    }, {
+      "id": "72dd9d35-a519-453d-b562-8204ca7b8001",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Fazendo BI do Zero",
+      "targets": [
+        ["linkText=Fazendo BI do Zero", "linkText"],
+        ["css=h5:nth-child(4) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Fazendo BI do Zero')]", "xpath:link"],
+        ["xpath=//section[@id='portfolio']/div/div/h5[4]/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://github.com/mateusblopes/fazendo-bi-do-zero')]", "xpath:href"],
+        ["xpath=//h5[4]/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Fazendo BI do Zero')]", "xpath:innerText"]
+      ],
+      "value": "Fazendo BI do Zero"
+    }, {
+      "id": "6d2b73ef-058c-4398-b5fd-5b5337931897",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h5:nth-child(4) > p > i",
+      "targets": [
+        ["css=h5:nth-child(4) > p > i", "css:finder"],
+        ["xpath=//section[@id='portfolio']/div/div/h5[4]/p/i", "xpath:idRelative"],
+        ["xpath=//h5[4]/p/i", "xpath:position"],
+        ["xpath=//i[contains(.,'Passo a passo de como fazer um projeto de BI (Business Intelligence) do planejamento aos testes de dashboards.')]", "xpath:innerText"]
+      ],
+      "value": "Passo a passo de como fazer um projeto de BI (Business Intelligence) do planejamento aos testes de dashboards."
+    }, {
+      "id": "922552d4-f053-4ce5-b62f-0762c00fab43",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Trabalhando com SSIS",
+      "targets": [
+        ["linkText=Trabalhando com SSIS", "linkText"],
+        ["css=h5:nth-child(5) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Trabalhando com SSIS')]", "xpath:link"],
+        ["xpath=//section[@id='portfolio']/div/div/h5[5]/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://github.com/mateusblopes/trabalhando-com-ssis')]", "xpath:href"],
+        ["xpath=//h5[5]/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Trabalhando com SSIS')]", "xpath:innerText"]
+      ],
+      "value": "Trabalhando com SSIS"
+    }, {
+      "id": "7e92bffd-f28c-4467-b6d3-b2de937eadc3",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h5:nth-child(5) > p > i",
+      "targets": [
+        ["css=h5:nth-child(5) > p > i", "css:finder"],
+        ["xpath=//section[@id='portfolio']/div/div/h5[5]/p/i", "xpath:idRelative"],
+        ["xpath=//h5[5]/p/i", "xpath:position"],
+        ["xpath=//i[contains(.,'Repositório de arquivos utilizados nos posts sobre a ferramenta SSIS (SQL Server Integration Service).')]", "xpath:innerText"]
+      ],
+      "value": "Repositório de arquivos utilizados nos posts sobre a ferramenta SSIS (SQL Server Integration Service)."
+    }, {
+      "id": "2c955c50-f5d3-46dc-b43a-b9a3f2dbc513",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Power BI Data Science",
+      "targets": [
+        ["linkText=Power BI Data Science", "linkText"],
+        ["css=h5:nth-child(6) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Power BI Data Science')]", "xpath:link"],
+        ["xpath=//section[@id='portfolio']/div/div/h5[6]/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://github.com/mateusblopes/PowerBI-DataScience')]", "xpath:href"],
+        ["xpath=//h5[6]/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Power BI Data Science')]", "xpath:innerText"]
+      ],
+      "value": "Power BI Data Science"
+    }, {
+      "id": "5284cad9-c032-430a-85a8-748884d66cb1",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h5:nth-child(6) > p > i",
+      "targets": [
+        ["css=h5:nth-child(6) > p > i", "css:finder"],
+        ["xpath=//section[@id='portfolio']/div/div/h5[6]/p/i", "xpath:idRelative"],
+        ["xpath=//h5[6]/p/i", "xpath:position"],
+        ["xpath=//i[contains(.,'Repositório de arquivos utilizados no Curso Microsoft Power BI Para Data Science oferecido pela Data Science Academy.')]", "xpath:innerText"]
+      ],
+      "value": "Repositório de arquivos utilizados no Curso Microsoft Power BI Para Data Science oferecido pela Data Science Academy."
+    }, {
+      "id": "0192cdc9-7648-4fea-a8f7-bed1ad9cdc8a",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Hacker Rank Solutions",
+      "targets": [
+        ["linkText=Hacker Rank Solutions", "linkText"],
+        ["css=h5:nth-child(7) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Hacker Rank Solutions')]", "xpath:link"],
+        ["xpath=//section[@id='portfolio']/div/div/h5[7]/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://github.com/mateusblopes/hackerranksolutions')]", "xpath:href"],
+        ["xpath=//h5[7]/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Hacker Rank Solutions')]", "xpath:innerText"]
+      ],
+      "value": "Hacker Rank Solutions"
+    }, {
+      "id": "bb1a4ffa-1a8f-4823-94d9-2cf5febce1fe",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h5:nth-child(7) > p > i",
+      "targets": [
+        ["css=h5:nth-child(7) > p > i", "css:finder"],
+        ["xpath=//section[@id='portfolio']/div/div/h5[7]/p/i", "xpath:idRelative"],
+        ["xpath=//h5[7]/p/i", "xpath:position"],
+        ["xpath=//i[contains(.,'Repositório de soluções construídas em Python para os exercícios propostos como treinamento usando o site https://hackerrank.com.')]", "xpath:innerText"]
+      ],
+      "value": "Repositório de soluções construídas em Python para os exercícios propostos como treinamento usando o site https://hackerrank.com."
+    }, {
+      "id": "2e333a1a-4945-4f52-8b20-27db5fcc846d",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Arquivos para Power BI",
+      "targets": [
+        ["linkText=Arquivos para Power BI", "linkText"],
+        ["css=h5:nth-child(8) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Arquivos para Power BI')]", "xpath:link"],
+        ["xpath=//section[@id='portfolio']/div/div/h5[8]/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://github.com/mateusblopes/arquivosparapowerbi')]", "xpath:href"],
+        ["xpath=//h5[8]/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Arquivos para Power BI')]", "xpath:innerText"]
+      ],
+      "value": "Arquivos para Power BI"
+    }, {
+      "id": "dd2d447f-0f90-453d-9894-1faec9ba7cd5",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h5:nth-child(8) > p > i",
+      "targets": [
+        ["css=h5:nth-child(8) > p > i", "css:finder"],
+        ["xpath=//section[@id='portfolio']/div/div/h5[8]/p/i", "xpath:idRelative"],
+        ["xpath=//h5[8]/p/i", "xpath:position"],
+        ["xpath=//i[contains(.,'Repositório de arquivos para importação e exemplo em Power BI')]", "xpath:innerText"]
+      ],
+      "value": "Repositório de arquivos para importação e exemplo em Power BI"
+    }, {
+      "id": "ff0eb621-f341-4271-b9b2-54081443e54b",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Fundamentos Big Data",
+      "targets": [
+        ["linkText=Fundamentos Big Data", "linkText"],
+        ["css=h5:nth-child(9) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Fundamentos Big Data')]", "xpath:link"],
+        ["xpath=//section[@id='portfolio']/div/div/h5[9]/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://github.com/mateusblopes/fundamentos-big-data')]", "xpath:href"],
+        ["xpath=//h5[9]/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Fundamentos Big Data')]", "xpath:innerText"]
+      ],
+      "value": "Fundamentos Big Data"
+    }, {
+      "id": "0e72eb50-69f9-4327-9ee0-3bcd9d270dd7",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h5:nth-child(9) > p > i",
+      "targets": [
+        ["css=h5:nth-child(9) > p > i", "css:finder"],
+        ["xpath=//section[@id='portfolio']/div/div/h5[9]/p/i", "xpath:idRelative"],
+        ["xpath=//h5[9]/p/i", "xpath:position"],
+        ["xpath=//i[contains(.,'Repositório de arquivos do Curso de Fundamentos Big Data com Apache Hadoop oferecido pela Never Stop Learning.')]", "xpath:innerText"]
+      ],
+      "value": "Repositório de arquivos do Curso de Fundamentos Big Data com Apache Hadoop oferecido pela Never Stop Learning."
+    }, {
+      "id": "1f17587c-3711-495d-ba2c-36edafa5abe1",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fa-home",
+      "targets": [
+        ["css=.fa-home", "css:finder"],
+        ["xpath=//div[@id='wrap']/nav/div/div/a/i", "xpath:idRelative"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e16a2d5a-2fb8-4c3e-a02a-819511b76cd4",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=strong",
+      "targets": [
+        ["css=strong", "css:finder"],
+        ["xpath=//section[@id='about']/div/h4/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Mateus Lopes')]", "xpath:innerText"]
+      ],
+      "value": "Mateus Lopes"
+    }, {
+      "id": "174a4081-d578-4966-88a4-d446844c2449",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "f89f18c0-5ad4-47e7-9405-fd01a53c1829",
+    "name": "PostsTest",
+    "commands": [{
+      "id": "2bd8eb78-74ad-4e3d-b887-9b1768a043fe",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3af0e2c0-e5d9-491f-85fb-ae781aa809a1",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1280x768",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d76a8c1c-3942-4e72-980f-e09484882b9b",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=strong",
+      "targets": [
+        ["css=strong", "css:finder"],
+        ["xpath=//section[@id='about']/div/h4/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Mateus Lopes')]", "xpath:innerText"]
+      ],
+      "value": "Mateus Lopes"
+    }, {
+      "id": "12426cf6-1d34-48ab-8f14-6616d84297d3",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fa-home",
+      "targets": [
+        ["css=.fa-home", "css:finder"],
+        ["xpath=//div[@id='wrap']/nav/div/div/a/i", "xpath:idRelative"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ad103187-0dea-460f-aa82-72ca44fa12e3",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=strong",
+      "targets": [
+        ["css=strong", "css:finder"],
+        ["xpath=//section[@id='about']/div/h4/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Mateus Lopes')]", "xpath:innerText"]
+      ],
+      "value": "Mateus Lopes"
+    }, {
+      "id": "de5b8e28-ec11-4360-b0ca-5788dd667b29",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=POSTS",
+      "targets": [
+        ["linkText=PORTFOLIO", "linkText"],
+        ["css=li:nth-child(1) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'PORTFOLIO')]", "xpath:link"],
+        ["xpath=//div[@id='navbar']/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/portfolio')]", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'PORTFOLIO')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "c0e6ff3b-7acf-4afb-9f47-1ba3f0ad0ae9",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h3",
+      "targets": [
+        ["css=h3", "css:finder"],
+        ["xpath=//section[@id='portfolio']/div/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'Portfolio')]", "xpath:innerText"]
+      ],
+      "value": "Posts"
+    }, {
+      "id": "911f1eb3-265a-47b5-b6c6-da0f814b274a",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Download e Instalação do Notepad++ no Windows",
+      "targets": [
+        ["linkText=Download e Instalação do Notepad++ no Windows", "linkText"],
+        ["css=.row:nth-child(17) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Download e Instalação do Notepad++ no Windows')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[17]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/download-e-instalacao-notepad++-no-windows.html')]", "xpath:href"],
+        ["xpath=//div[17]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Download e Instalação do Notepad++ no Windows')]", "xpath:innerText"]
+      ],
+      "value": "Download e Instalação do Notepad++ no Windows"
+    }, {
+      "id": "3b2367d9-2b07-481b-91a1-6dcd9c533025",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Download e Instalação do Git no Windows",
+      "targets": [
+        ["linkText=Download e Instalação do Git no Windows", "linkText"],
+        ["css=.row:nth-child(16) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Download e Instalação do Git no Windows')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[16]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/download-e-instalacao-git-no-windows.html')]", "xpath:href"],
+        ["xpath=//div[16]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Download e Instalação do Git no Windows')]", "xpath:innerText"]
+      ],
+      "value": "Download e Instalação do Git no Windows"
+    }, {
+      "id": "095695ee-729e-4a9d-b214-b4a7ae8586da",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Download e Instalação TortoiseGit no Windows",
+      "targets": [
+        ["linkText=Download e Instalação TortoiseGit no Windows", "linkText"],
+        ["css=.row:nth-child(15) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Download e Instalação TortoiseGit no Windows')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[15]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/download-e-instalacao-tortoisegit-no-windows.html')]", "xpath:href"],
+        ["xpath=//div[15]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Download e Instalação TortoiseGit no Windows')]", "xpath:innerText"]
+      ],
+      "value": "Download e Instalação TortoiseGit no Windows"
+    }, {
+      "id": "e79983d8-b64d-45b2-ba32-558ff882641e",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Download e Instalação do Visual Studio",
+      "targets": [
+        ["linkText=Download e Instalação do Visual Studio", "linkText"],
+        ["css=.row:nth-child(14) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Download e Instalação do Visual Studio')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[14]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/download-e-instalacao-visual-studio.html')]", "xpath:href"],
+        ["xpath=//div[14]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Download e Instalação do Visual Studio')]", "xpath:innerText"]
+      ],
+      "value": "Download e Instalação do Visual Studio"
+    }, {
+      "id": "2e25f7d6-0e73-44a2-84d0-8621b12678f3",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Download e Instalação SQL Server Integration Service - SSIS",
+      "targets": [
+        ["linkText=Download e Instalação SQL Server Integration Service - SSIS", "linkText"],
+        ["css=.row:nth-child(13) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Download e Instalação SQL Server Integration Service - SSIS')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[13]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/download-e-instalacao-sql-server-integration-service-ssis.html')]", "xpath:href"],
+        ["xpath=//div[13]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Download e Instalação SQL Server Integration Service - SSIS')]", "xpath:innerText"]
+      ],
+      "value": "Download e Instalação SQL Server Integration Service - SSIS"
+    }, {
+      "id": "ab0f8057-c23a-4586-b629-0c5147b8b1e8",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Download e Instalação Microsoft PowerBI Desktop",
+      "targets": [
+        ["linkText=Download e Instalação Microsoft PowerBI Desktop", "linkText"],
+        ["css=.row:nth-child(12) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Download e Instalação Microsoft PowerBI Desktop')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[12]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/download-e-instalacao-microsoft-powerbi.html')]", "xpath:href"],
+        ["xpath=//div[12]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Download e Instalação Microsoft PowerBI Desktop')]", "xpath:innerText"]
+      ],
+      "value": "Download e Instalação Microsoft PowerBI Desktop"
+    }, {
+      "id": "0e24508f-9cbf-468b-9313-e4a314505144",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Download e Instalação Microsoft SQL Server",
+      "targets": [
+        ["linkText=Download e Instalação Microsoft SQL Server", "linkText"],
+        ["css=.row:nth-child(11) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Download e Instalação Microsoft SQL Server')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[11]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/download-e-instalacao-microsoft-sql-server.html')]", "xpath:href"],
+        ["xpath=//div[11]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Download e Instalação Microsoft SQL Server')]", "xpath:innerText"]
+      ],
+      "value": "Download e Instalação Microsoft SQL Server"
+    }, {
+      "id": "4df1a5f4-3500-447a-bafb-f69472a8244e",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Download e Instalação do Tableau Desktop",
+      "targets": [
+        ["linkText=Download e Instalação do Tableau Desktop", "linkText"],
+        ["css=.row:nth-child(10) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Download e Instalação do Tableau Desktop')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[10]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/download-e-instalacao-tableau.html')]", "xpath:href"],
+        ["xpath=//div[10]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Download e Instalação do Tableau Desktop')]", "xpath:innerText"]
+      ],
+      "value": "Download e Instalação do Tableau Desktop"
+    }, {
+      "id": "4be78797-a2aa-4dff-9ac2-231fa16a23b7",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Criando projeto e pacotes no SSIS",
+      "targets": [
+        ["linkText=Criando projeto e pacotes no SSIS", "linkText"],
+        ["css=.row:nth-child(9) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Criando projeto e pacotes no SSIS')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[9]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/criando-projeto-e-pacotes-no-ssis.html')]", "xpath:href"],
+        ["xpath=//div[9]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Criando projeto e pacotes no SSIS')]", "xpath:innerText"]
+      ],
+      "value": "Criando projeto e pacotes no SSIS"
+    }, {
+      "id": "22f33ee0-4b77-44e5-be2b-0a7a6e52d8b6",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Criando conexões no SSIS",
+      "targets": [
+        ["linkText=Criando conexões no SSIS", "linkText"],
+        ["css=.row:nth-child(8) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Criando conexões no SSIS')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[8]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/criando-conexoes-no-ssis.html')]", "xpath:href"],
+        ["xpath=//div[8]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Criando conexões no SSIS')]", "xpath:innerText"]
+      ],
+      "value": "Criando conexões no SSIS"
+    }, {
+      "id": "23650bb1-1102-4561-b90d-80dbf0ebd534",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Instalando Selenium IDE no Firefox",
+      "targets": [
+        ["linkText=Instalando Selenium IDE no Firefox", "linkText"],
+        ["css=.row:nth-child(7) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Instalando Selenium IDE no Firefox')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[7]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/instalando-selenium-ide-no-firefox.html')]", "xpath:href"],
+        ["xpath=//div[7]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Instalando Selenium IDE no Firefox')]", "xpath:innerText"]
+      ],
+      "value": "Instalando Selenium IDE no Firefox"
+    }, {
+      "id": "02a8cd4f-9f42-4c14-87fd-ed23dd692695",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Executando Testes com Selenium IDE",
+      "targets": [
+        ["linkText=Executando Testes com Selenium IDE", "linkText"],
+        ["css=.row:nth-child(6) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Executando Testes com Selenium IDE')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[6]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/executando-testes-com-selenium-ide.html')]", "xpath:href"],
+        ["xpath=//div[6]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Executando Testes com Selenium IDE')]", "xpath:innerText"]
+      ],
+      "value": "Executando Testes com Selenium IDE"
+    }, {
+      "id": "8d558afd-754a-4673-8f59-15f0b91e26fe",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Extraindo dados de arquivo TXT",
+      "targets": [
+        ["linkText=Extraindo dados de arquivo TXT", "linkText"],
+        ["css=.row:nth-child(5) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Extraindo dados de arquivo TXT')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[5]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/extraindo-dados-de-arquivo-txt.html')]", "xpath:href"],
+        ["xpath=//div[5]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Extraindo dados de arquivo TXT')]", "xpath:innerText"]
+      ],
+      "value": "Extraindo dados de arquivo TXT"
+    }, {
+      "id": "da6d7767-e9b4-438c-827e-ba40f98fa44d",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Extraindo dados de arquivo CSV",
+      "targets": [
+        ["linkText=Extraindo dados de arquivo CSV", "linkText"],
+        ["css=.row:nth-child(4) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Extraindo dados de arquivo CSV')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[4]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/extraindo-dados-de-arquivo-csv.html')]", "xpath:href"],
+        ["xpath=//div[4]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Extraindo dados de arquivo CSV')]", "xpath:innerText"]
+      ],
+      "value": "Extraindo dados de arquivo CSV"
+    }, {
+      "id": "2d61078a-9e4b-419f-b39e-5d6d548d7978",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Conheça as plataformas do Power BI",
+      "targets": [
+        ["linkText=Conheça as plataformas do Power BI", "linkText"],
+        ["css=.row:nth-child(3) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Conheça as plataformas do Power BI')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[3]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/conheca-as-plataformas-do-power-bi.html')]", "xpath:href"],
+        ["xpath=//div[3]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Conheça as plataformas do Power BI')]", "xpath:innerText"]
+      ],
+      "value": "Conheça as plataformas do Power BI"
+    }, {
+      "id": "fc9cbbbe-0f42-49c6-aefb-9f5ad38286ad",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Descubra quanto custa o Power BI para você ou sua empresa",
+      "targets": [
+        ["linkText=Descubra quanto custa o Power BI para você ou sua empresa", "linkText"],
+        ["css=.row:nth-child(2) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Descubra quanto custa o Power BI para você ou sua empresa')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[2]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/descubra-quanto-custa-o-power-bi-para-voc%C3%AA-ou-sua-empresa.html')]", "xpath:href"],
+        ["xpath=//div[2]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Descubra quanto custa o Power BI para você ou sua empresa')]", "xpath:innerText"]
+      ],
+      "value": "Descubra quanto custa o Power BI para você ou sua empresa"
+    }, {
+      "id": "f06d3327-7de7-4e95-8be0-612ab03052a2",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Utilizar Importação ou DirectQuery no Power BI?",
+      "targets": [
+        ["linkText=Utilizar Importação ou DirectQuery no Power BI?", "linkText"],
+        ["css=.row:nth-child(1) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Utilizar Importação ou DirectQuery no Power BI?')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/utilizar-importa%C3%A7%C3%A3o-ou-directquery-no-power-bi.html')]", "xpath:href"],
+        ["xpath=//strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Utilizar Importação ou DirectQuery no Power BI?')]", "xpath:innerText"]
+      ],
+      "value": "Utilizar Importação ou DirectQuery no Power BI?"
+    }, {
+      "id": "afe953be-61c1-4baa-8ec3-f39338f752d3",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fa-home",
+      "targets": [
+        ["css=.fa-home", "css:finder"],
+        ["xpath=//div[@id='wrap']/nav/div/div/a/i", "xpath:idRelative"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3f125a90-76a0-442e-854a-43f96d766a9e",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=strong",
+      "targets": [
+        ["css=strong", "css:finder"],
+        ["xpath=//section[@id='about']/div/h4/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Mateus Lopes')]", "xpath:innerText"]
+      ],
+      "value": "Mateus Lopes"
+    }, {
+      "id": "6abd87a3-34cd-4425-9f2a-92204ed20ac2",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "81f3c2a1-645c-40ef-9bbb-5aa5a0d301c4",
+    "name": "ParceriasTest",
+    "commands": [{
+      "id": "7a5d8c75-6255-4ede-8803-c06dbf86be45",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1f4953c3-3284-4e3f-a85a-1635c880104d",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1280x768",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "bf117c27-cf7d-4e01-b0a3-4aea51c8e03c",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=strong",
+      "targets": [
+        ["css=strong", "css:finder"],
+        ["xpath=//section[@id='about']/div/h4/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Mateus Lopes')]", "xpath:innerText"]
+      ],
+      "value": "Mateus Lopes"
+    }, {
+      "id": "1648a157-7da7-48e0-9b99-cc15d5febcfa",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fa-home",
+      "targets": [
+        ["css=.fa-home", "css:finder"],
+        ["xpath=//div[@id='wrap']/nav/div/div/a/i", "xpath:idRelative"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c6e03c3e-487e-420c-8fe5-db4bf7382d8f",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=strong",
+      "targets": [
+        ["css=strong", "css:finder"],
+        ["xpath=//section[@id='about']/div/h4/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Mateus Lopes')]", "xpath:innerText"]
+      ],
+      "value": "Mateus Lopes"
+    }, {
+      "id": "cd037c5d-5bc0-42be-b07c-f413ef8bd0ba",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=PARCERIAS",
+      "targets": [
+        ["linkText=PORTFOLIO", "linkText"],
+        ["css=li:nth-child(1) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'PORTFOLIO')]", "xpath:link"],
+        ["xpath=//div[@id='navbar']/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/portfolio')]", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'PORTFOLIO')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "a70422ae-dd1c-4c6c-87f7-157f39d59d6c",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h3",
+      "targets": [
+        ["css=h3", "css:finder"],
+        ["xpath=//section[@id='portfolio']/div/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'Portfolio')]", "xpath:innerText"]
+      ],
+      "value": "Parcerias"
+    }, {
+      "id": "b5db5c64-52b7-4f94-8b77-abaff2dbe740",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Mateus Lopes",
+      "targets": [
+        ["linkText=Artigos", "linkText"],
+        ["css=h5:nth-child(1) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Artigos')]", "xpath:link"],
+        ["xpath=//section[@id='portfolio']/div/div/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://github.com/mateusblopes/artigos')]", "xpath:href"],
+        ["xpath=//strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Artigos')]", "xpath:innerText"]
+      ],
+      "value": "Mateus Lopes"
+    }, {
+      "id": "ca7dcb04-58bf-4257-95cd-3255468b30d3",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=IGNIÇÃO GP",
+      "targets": [
+        ["linkText=Artigos", "linkText"],
+        ["css=h5:nth-child(1) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Artigos')]", "xpath:link"],
+        ["xpath=//section[@id='portfolio']/div/div/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://github.com/mateusblopes/artigos')]", "xpath:href"],
+        ["xpath=//strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Artigos')]", "xpath:innerText"]
+      ],
+      "value": "IGNIÇÃO GP"
+    }, {
+      "id": "707c9cdb-d544-44b6-84cd-00e18b898559",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=SCRUMstudy ™",
+      "targets": [
+        ["linkText=Artigos", "linkText"],
+        ["css=h5:nth-child(1) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Artigos')]", "xpath:link"],
+        ["xpath=//section[@id='portfolio']/div/div/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://github.com/mateusblopes/artigos')]", "xpath:href"],
+        ["xpath=//strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Artigos')]", "xpath:innerText"]
+      ],
+      "value": "SCRUMstudy ™"
+    }, {
+      "id": "f7d2cc86-b526-412b-a623-3098d75adf3d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fa-home",
+      "targets": [
+        ["css=.fa-home", "css:finder"],
+        ["xpath=//div[@id='wrap']/nav/div/div/a/i", "xpath:idRelative"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f7682c8e-3e58-45b3-b937-0fe0a17481d4",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=strong",
+      "targets": [
+        ["css=strong", "css:finder"],
+        ["xpath=//section[@id='about']/div/h4/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Mateus Lopes')]", "xpath:innerText"]
+      ],
+      "value": "Mateus Lopes"
+    }, {
+      "id": "a846ca3c-0ac1-4968-a624-edc43a20a6bd",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "1ba56178-5458-4ab5-a568-993ec1d95bdc",
+    "name": "ArtigosTest",
+    "commands": [{
+      "id": "2479fb2a-a850-4345-a92f-aa9df7afabd6",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9fbc5417-477d-4e32-9d99-899ae7491feb",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1280x768",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "4b439acb-2c83-4903-a2d8-e5247b740f84",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=strong",
+      "targets": [
+        ["css=strong", "css:finder"],
+        ["xpath=//section[@id='about']/div/h4/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Mateus Lopes')]", "xpath:innerText"]
+      ],
+      "value": "Mateus Lopes"
+    }, {
+      "id": "3e860e24-6ff5-4081-8ade-df3101448f5a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fa-home",
+      "targets": [
+        ["css=.fa-home", "css:finder"],
+        ["xpath=//div[@id='wrap']/nav/div/div/a/i", "xpath:idRelative"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "47f6e65b-6dfb-4160-8efa-626da11d0b0b",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=strong",
+      "targets": [
+        ["css=strong", "css:finder"],
+        ["xpath=//section[@id='about']/div/h4/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Mateus Lopes')]", "xpath:innerText"]
+      ],
+      "value": "Mateus Lopes"
+    }, {
+      "id": "dc4c9ae8-6f31-4484-8314-7d1e3d7406f9",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=ARTIGOS",
+      "targets": [
+        ["linkText=PORTFOLIO", "linkText"],
+        ["css=li:nth-child(1) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'PORTFOLIO')]", "xpath:link"],
+        ["xpath=//div[@id='navbar']/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/portfolio')]", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'PORTFOLIO')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "c39814ed-396b-4e9e-a7c9-feafe4bee29c",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=h3",
+      "targets": [
+        ["css=h3", "css:finder"],
+        ["xpath=//section[@id='portfolio']/div/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'Portfolio')]", "xpath:innerText"]
+      ],
+      "value": "Artigos"
+    }, {
+      "id": "f4f5fae8-b88d-48d2-ae4e-91949e427a21",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Importancia do Processo de Teste de Software em TI",
+      "targets": [
+        ["linkText=Importancia do Processo de Teste de Software em TI", "linkText"],
+        ["css=h5:nth-child(1) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Importancia do Processo de Teste de Software em TI')]", "xpath:link"],
+        ["xpath=//section[@id='artigos']/div/div/div/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://github.com/mateusblopes/artigos/blob/master/ImportanciadoProcessodeTestedeSoftwareemTI.pdf')]", "xpath:href"],
+        ["xpath=//strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Importancia do Processo de Teste de Software em TI')]", "xpath:innerText"]
+      ],
+      "value": "Importancia do Processo de Teste de Software em TI"
+    }, {
+      "id": "bcebaa44-83b1-4671-aadf-42b035139f68",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=A Importancia do Processo de Garantia da Qualidade de Software",
+      "targets": [
+        ["linkText=A Importancia do Processo de Garantia da Qualidade de Software", "linkText"],
+        ["css=h5:nth-child(2) a", "css:finder"],
+        ["xpath=//a[contains(text(),'A Importancia do Processo de Garantia da Qualidade de Software')]", "xpath:link"],
+        ["xpath=//section[@id='artigos']/div/div/div/h5[2]/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://github.com/mateusblopes/artigos/blob/master/AImportanciadoProcessodeGarantiadaQualidadedeSoftware.pdf')]", "xpath:href"],
+        ["xpath=//h5[2]/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'A Importancia do Processo de Garantia da Qualidade de Software')]", "xpath:innerText"]
+      ],
+      "value": "A Importancia do Processo de Garantia da Qualidade de Software"
+    }, {
+      "id": "2039230b-6c78-44d1-b1e3-179290c8614d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fa-home",
+      "targets": [
+        ["css=.fa-home", "css:finder"],
+        ["xpath=//div[@id='wrap']/nav/div/div/a/i", "xpath:idRelative"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1ffcdd5d-0e48-42c8-b622-e25d430b92b1",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=strong",
+      "targets": [
+        ["css=strong", "css:finder"],
+        ["xpath=//section[@id='about']/div/h4/strong", "xpath:idRelative"],
+        ["xpath=//strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Mateus Lopes')]", "xpath:innerText"]
+      ],
+      "value": "Mateus Lopes"
+    }, {
+      "id": "f21e9b56-aae1-4db8-b53a-6e60ae5cf56a",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "6ef96bbb-6753-477f-ac41-c486e0345438",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["693b3416-3284-401b-a471-23920f7cef50", "576b713e-ff0d-4b5d-b0ac-12d86fe30fe4", "f89f18c0-5ad4-47e7-9405-fd01a53c1829", "81f3c2a1-645c-40ef-9bbb-5aa5a0d301c4", "1ba56178-5458-4ab5-a568-993ec1d95bdc"]
+  }],
+  "urls": ["https://mateusbtlopes.github.io/"],
+  "plugins": []
+}
