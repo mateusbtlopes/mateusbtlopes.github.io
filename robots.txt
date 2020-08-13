@@ -21,4 +21,3 @@ Allow: /extraindo-dados-de-arquivo-csv.html
 Allow: /conheca-as-plataformas-do-power-bi.html
 Allow: /descubra-quanto-custa-o-power-bi-para-você-ou-sua-empresa.html
 Allow: /utilizar-importação-ou-directquery-no-power-bi.html
-
