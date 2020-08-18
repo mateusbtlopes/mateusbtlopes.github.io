@@ -49,6 +49,6 @@ category: [<i class="fa fa-linkedin"></i>]
 <li><strong><i>Use um título marcante</i></strong>, é uma forma de chamar atenção para a ideia que está sendo proposta.</li>
 </ul>
 
-<p>Finalizamos o segundo dia do sprint, prepare-se <a href="./sprint-resolva-problemas-e-teste-ideias-em-cinco-dias-quarta-feira.html" target+"_blank">amanhã</a> tem mais...</p>
+<p>Finalizamos o segundo dia do sprint, prepare-se <a href="./sprint-resolva-problemas-e-teste-ideias-em-cinco-dias-quarta-feira.html" target="_blank">amanhã</a> tem mais...</p>
 
 <p>Ficou com alguma dúvida? O que você achou da proposta de atividades para o dia de hoje?</p>

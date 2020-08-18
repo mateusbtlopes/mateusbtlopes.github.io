@@ -17,7 +17,7 @@ category: [<i class="fa fa-linkedin"></i>]
 ---
 
 <div style="text-align:center">
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/Sprintquinta.png" alt="SPRINT - Resolva problemas e teste ideias em cinco dias - quinta-feira" height="200" width="400"/></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/SprintQuinta.png" alt="SPRINT - Resolva problemas e teste ideias em cinco dias - quinta-feira" height="200" width="400"/></p>
 </div>
 
 <div style="text-align:center">

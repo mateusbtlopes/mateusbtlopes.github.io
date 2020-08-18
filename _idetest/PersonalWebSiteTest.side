@@ -951,6 +951,96 @@
       ],
       "value": "Utilizar Importação ou DirectQuery no Power BI?"
     }, {
+      "id": "d5443c89-8145-4e7f-8f4a-ce1591de6476",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=SPRINT - Resolva problemas e teste ideias em cinco dias - Preparação",
+      "targets": [
+        ["linkText=SPRINT - Resolva problemas e teste ideias em cinco dias - Preparação", "linkText"],
+        ["css=.row:nth-child(6) a", "css:finder"],
+        ["xpath=//a[contains(text(),'SPRINT - Resolva problemas e teste ideias em cinco dias - Preparação')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[6]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/sprint-resolva-problemas-e-teste-ideias-em-cinco-dias-preparacao.html')]", "xpath:href"],
+        ["xpath=//div[6]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'SPRINT - Resolva problemas e teste ideias em cinco dias - Preparação')]", "xpath:innerText"]
+      ],
+      "value": "SPRINT - Resolva problemas e teste ideias em cinco dias - Preparação"
+    }, {
+      "id": "e0104621-1915-4709-bead-9094fd14d6b5",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=SPRINT - Resolva problemas e teste ideias em cinco dias - Segunda-feira",
+      "targets": [
+        ["linkText=SPRINT - Resolva problemas e teste ideias em cinco dias - Segunda-feira", "linkText"],
+        ["css=.row:nth-child(5) a", "css:finder"],
+        ["xpath=//a[contains(text(),'SPRINT - Resolva problemas e teste ideias em cinco dias - Segunda-feira')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[5]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/sprint-resolva-problemas-e-teste-ideias-em-cinco-dias-segunda-feira.html')]", "xpath:href"],
+        ["xpath=//div[5]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'SPRINT - Resolva problemas e teste ideias em cinco dias - Segunda-feira')]", "xpath:innerText"]
+      ],
+      "value": "SPRINT - Resolva problemas e teste ideias em cinco dias - Segunda-feira"
+    }, {
+      "id": "da20427e-16bd-4203-844a-8db267f7f607",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=SPRINT - Resolva problemas e teste ideias em cinco dias - Terça-feira",
+      "targets": [
+        ["linkText=SPRINT - Resolva problemas e teste ideias em cinco dias - Terça-feira", "linkText"],
+        ["css=.row:nth-child(4) a", "css:finder"],
+        ["xpath=//a[contains(text(),'SPRINT - Resolva problemas e teste ideias em cinco dias - Terça-feira')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[4]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/sprint-resolva-problemas-e-teste-ideias-em-cinco-dias-terca-feira.html')]", "xpath:href"],
+        ["xpath=//div[4]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'SPRINT - Resolva problemas e teste ideias em cinco dias - Terça-feira')]", "xpath:innerText"]
+      ],
+      "value": "SPRINT - Resolva problemas e teste ideias em cinco dias - Terça-feira"
+    }, {
+      "id": "901dbbd4-bf62-4b9a-bdaa-9b1ce1115f00",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=SPRINT - Resolva problemas e teste ideias em cinco dias - Quarta-feira",
+      "targets": [
+        ["linkText=SPRINT - Resolva problemas e teste ideias em cinco dias - Quarta-feira", "linkText"],
+        ["css=.row:nth-child(3) a", "css:finder"],
+        ["xpath=//a[contains(text(),'SPRINT - Resolva problemas e teste ideias em cinco dias - Quarta-feira')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[3]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/sprint-resolva-problemas-e-teste-ideias-em-cinco-dias-quarta-feira.html')]", "xpath:href"],
+        ["xpath=//div[3]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'SPRINT - Resolva problemas e teste ideias em cinco dias - Quarta-feira')]", "xpath:innerText"]
+      ],
+      "value": "SPRINT - Resolva problemas e teste ideias em cinco dias - Quarta-feira"
+    }, {
+      "id": "07bbd33e-922c-437b-b4a5-a4e41c88d12d",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=SPRINT - Resolva problemas e teste ideias em cinco dias - Quinta-feira",
+      "targets": [
+        ["linkText=SPRINT - Resolva problemas e teste ideias em cinco dias - Quinta-feira", "linkText"],
+        ["css=.row:nth-child(2) a", "css:finder"],
+        ["xpath=//a[contains(text(),'SPRINT - Resolva problemas e teste ideias em cinco dias - Quinta-feira')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div[2]/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/sprint-resolva-problemas-e-teste-ideias-em-cinco-dias-quinta-feira.html')]", "xpath:href"],
+        ["xpath=//div[2]/h5/strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'SPRINT - Resolva problemas e teste ideias em cinco dias - Quinta-feira')]", "xpath:innerText"]
+      ],
+      "value": "SPRINT - Resolva problemas e teste ideias em cinco dias - Quinta-feira"
+    }, {
+      "id": "e01acab1-d90e-4e2c-b47f-411e762cc47c",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=SPRINT - Resolva problemas e teste ideias em cinco dias - Sexta-feira",
+      "targets": [
+        ["linkText=SPRINT - Resolva problemas e teste ideias em cinco dias - Sexta-feira", "linkText"],
+        ["css=.row:nth-child(1) a", "css:finder"],
+        ["xpath=//a[contains(text(),'SPRINT - Resolva problemas e teste ideias em cinco dias - Sexta-feira')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/sprint-resolva-problemas-e-teste-ideias-em-cinco-dias-sexta-feira.html')]", "xpath:href"],
+        ["xpath=//strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'SPRINT - Resolva problemas e teste ideias em cinco dias - Sexta-feira')]", "xpath:innerText"]
+      ],
+      "value": "SPRINT - Resolva problemas e teste ideias em cinco dias - Sexta-feira"
+    }, {
       "id": "afe953be-61c1-4baa-8ec3-f39338f752d3",
       "comment": "",
       "command": "click",
