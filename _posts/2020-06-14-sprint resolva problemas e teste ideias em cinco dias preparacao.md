@@ -71,6 +71,6 @@ Knapp fala sobre o Sprint:
 
 <p>Tenha na sala quadros brancos grandes à disposição, caso não seja possível, tente com flip chart. Post-its serão super bem vindos e muito utilizados!</p>
 
-<p>Após a preparação é hora de aplicar o processo, te espero no <a href="" targer="_blank">próximo post</a> para entendermos como será o nosso primeiro dia de Sprint.</p>
+<p>Após a preparação é hora de aplicar o processo, te espero no <a href="./sprint-resolva-problemas-e-teste-ideias-em-cinco-dias-segunda-feira.html" targer="_blank">próximo post</a> para entendermos como será o nosso primeiro dia de Sprint.</p>
 
 <p>E você, como tem feito e quanto tempo tem levado para resolver problemas ou aplicar ideias na sua empresa? Teria coragem de testar um sprint de cinco dias na sua empresa?</p>

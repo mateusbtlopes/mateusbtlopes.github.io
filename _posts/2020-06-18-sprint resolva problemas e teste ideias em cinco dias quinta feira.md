@@ -24,7 +24,7 @@ category: [<i class="fa fa-linkedin"></i>]
 <p><i>SPRINT - Resolva problemas e teste ideias em cinco dias - Quinta-feira</i>.</p>
 </div>
 
-<p>Finalizadas atividades da <a href="" target="_blank">quarta-feira</a> é hora de trabalho no quarto dia do sprint.<p/>
+<p>Finalizadas atividades da <a href="./sprint-resolva-problemas-e-teste-ideias-em-cinco-dias-quarta-feira.html" target="_blank">quarta-feira</a> é hora de trabalho no quarto dia do sprint.<p/>
 
 <h3 id="heading3">QUINTA-FEIRA</h3>
 
@@ -40,6 +40,6 @@ category: [<i class="fa fa-linkedin"></i>]
 
 <p>Depois de todo storyboard pronto, faça testes em seu protótipo pois, isso garantirá que todas as peças se encaixarão e que tudo estará "nos trinques" para sexta-feira!</p>
 
-<p>Finalizamos assim o quarto dia do sprint, prepare-se amanhã é dia de pôr a prova todo trabalho da semana...</p>
+<p>Finalizamos assim o quarto dia do sprint, prepare-se <a href="./sprint-resolva-problemas-e-teste-ideias-em-cinco-dias-sexta-feira.html" target="_blank">amanhã</a> é dia de pôr a prova todo trabalho da semana...</p>
 
 <p>Ficou com alguma dúvida? O que você de um dia para prototipar seu produto/serviço?</p>

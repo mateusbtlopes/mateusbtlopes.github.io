@@ -24,7 +24,7 @@ category: [<i class="fa fa-linkedin"></i>]
 <p><i>SPRINT - Resolva problemas e teste ideias em cinco dias - Quarta-feira</i>.</p>
 </div>
 
-<p>Finalizadas atividades da <a href="" target="_blank">terça-feira</a> é hora de enfrentar o terceiro dia do sprint.<p/>
+<p>Finalizadas atividades da <a href="./sprint-resolva-problemas-e-teste-ideias-em-cinco-dias-terca-feira.html" target="_blank">terça-feira</a> é hora de enfrentar o terceiro dia do sprint.<p/>
 
 <h3 id="heading3">QUARTA-FEIRA</h3>
 
@@ -50,6 +50,6 @@ category: [<i class="fa fa-linkedin"></i>]
 
 <p>Seu <i>storyboard</i> deve conter uma história de quinze minutos, mais que isso pode ser tempo demais durante as entrevistas da sexta-feira.</p>
 
-<p>Finalizamos assim o terceiro dia do sprint, prepare-se <a href="" target="_blank">amanhã</a> é dia de por a mão na massa...</p>
+<p>Finalizamos assim o terceiro dia do sprint, prepare-se <a href="./sprint-resolva-problemas-e-teste-ideias-em-cinco-dias-quinta-feira.html" target="_blank">amanhã</a> é dia de por a mão na massa...</p>
 
 <p>Ficou com alguma dúvida? O que você achou da ideia de planejar o dia de amanhã com um <i>storyboard</i></p>

@@ -24,7 +24,7 @@ category: [<i class="fa fa-linkedin"></i>]
 <p><i>SPRINT - Resolva problemas e teste ideias em cinco dias - Sexta-feira</i>.</p>
 </div>
 
-<p>Finalizadas atividades da <a href="" target="_blank">quinta-feira</a> é hora de enfrentar o último dia do sprint.<p/>
+<p>Finalizadas atividades da <a href="./sprint-resolva-problemas-e-teste-ideias-em-cinco-dias-quinta-feira.html" target="_blank">quinta-feira</a> é hora de enfrentar o último dia do sprint.<p/>
 
 <h3 id="heading3">SEXTA-FEIRA</h3>
 
