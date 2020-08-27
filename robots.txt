@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 Allow: /portfolio.html
 Allow: /posts.html
-Allow: /parcerias.html
+Allow: /sugestoes.html
 Allow: /artigo.html
 Allow: /download-e-instalacao-notepad++-no-windows.html
 Allow: /download-e-instalacao-git-no-windows.html
