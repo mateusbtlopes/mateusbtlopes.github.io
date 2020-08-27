@@ -159,15 +159,15 @@
       "id": "85381c04-99de-4fad-8c49-ea25971952dd",
       "comment": "",
       "command": "click",
-      "target": "linkText=PARCERIAS",
+      "target": "linkText=SUGESTÕES",
       "targets": [
-        ["linkText=PARCERIAS", "linkText"],
+        ["linkText=SUGESTÕES", "linkText"],
         ["css=li:nth-child(3) > a", "css:finder"],
-        ["xpath=//a[contains(text(),'PARCERIAS')]", "xpath:link"],
+        ["xpath=//a[contains(text(),'SUGESTÕES')]", "xpath:link"],
         ["xpath=//div[@id='navbar']/ul/li[3]/a", "xpath:idRelative"],
-        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/parcerias')]", "xpath:href"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/sugestoes')]", "xpath:href"],
         ["xpath=//li[3]/a", "xpath:position"],
-        ["xpath=//a[contains(.,'PARCERIAS')]", "xpath:innerText"]
+        ["xpath=//a[contains(.,'SUGESTÕES')]", "xpath:innerText"]
       ],
       "value": ""
     }, {
@@ -177,11 +177,11 @@
       "target": "css=h3",
       "targets": [
         ["css=h3", "css:finder"],
-        ["xpath=//section[@id='parcerias']/div/h3", "xpath:idRelative"],
+        ["xpath=//section[@id='sugestoes']/div/h3", "xpath:idRelative"],
         ["xpath=//h3", "xpath:position"],
-        ["xpath=//h3[contains(.,'Parcerias')]", "xpath:innerText"]
+        ["xpath=//h3[contains(.,'Sugestões')]", "xpath:innerText"]
       ],
-      "value": "Parcerias"
+      "value": "Sugestões"
     }, {
       "id": "4b6bb6cd-07d7-4f6d-a4a1-a78df6f97d9f",
       "comment": "",
@@ -1073,7 +1073,7 @@
     }]
   }, {
     "id": "81f3c2a1-645c-40ef-9bbb-5aa5a0d301c4",
-    "name": "ParceriasTest",
+    "name": "SugestoesTest",
     "commands": [{
       "id": "7a5d8c75-6255-4ede-8803-c06dbf86be45",
       "comment": "",
@@ -1127,7 +1127,7 @@
       "id": "cd037c5d-5bc0-42be-b07c-f413ef8bd0ba",
       "comment": "",
       "command": "click",
-      "target": "linkText=PARCERIAS",
+      "target": "linkText=SUGESTÕES",
       "targets": [
         ["linkText=PORTFOLIO", "linkText"],
         ["css=li:nth-child(1) > a", "css:finder"],
@@ -1149,7 +1149,7 @@
         ["xpath=//h3", "xpath:position"],
         ["xpath=//h3[contains(.,'Portfolio')]", "xpath:innerText"]
       ],
-      "value": "Parcerias"
+      "value": "Sugestões"
     }, {
       "id": "b5db5c64-52b7-4f94-8b77-abaff2dbe740",
       "comment": "",
