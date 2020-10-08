@@ -9,10 +9,11 @@ tags:
 - '#lendoexcelnopowerbi'
 - '#PowerBI'
 - '#DataVisualization'
+category: [<i class="fa fa-github"></i>]
 ---
 
 <div style="text-align:center">
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoExcel1.png" alt="Como ler dados de arquivos Excel no Power BI" height="100" width="400"/></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoExcel1.png" alt="Como ler dados de arquivos Excel no Power BI" height="240" width="480"/></p>
 </div>
 
 <div style="text-align:center">
@@ -31,7 +32,7 @@ tags:
 <li><strong><i>ListadePilotosF12020.xlsm</i>:</strong> Arquivo em formato "xlsm" utilizado ao salvar arquivos com macro em VBA (Visual Basic).</li>
 </ul>
 
-<p>Estes arquivos estão disponíveis para download gratuitamente no meu repositório <a href="https://github.com/mateusbtlopes/ArquivosParaPowerBI" target="_blank">"ArquivosParaPowerBI"</a> do GitHub.</p>
+<p>Estes arquivos estão disponíveis para download gratuitamente no meu repositório "<a href="https://github.com/mateusbtlopes/ArquivosParaPowerBI" target="_blank">ArquivosParaPowerBI</a>" do GitHub.</p>
 
 <p>Basta acessar o repositório, fazer o download destes arquivos para o seu computador e começar a praticar!</p>
 
@@ -47,26 +48,26 @@ tags:
 
 <p>4. Devemos escolher qual arquivo desejamos ler ou carregar, neste exemplo, vamos selecionar o arquivo <i><strong>EstadosBrasileiros.xls</strong></i></p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoExcel3.png"</p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoExcel3.png"/></p>
 
 <p>5. A tela de "Navegação" será exibida;</p>
 
 <p>6. Devemos selecionar a "EstadosBrasileiros" e em seguida clicar em "Transformar Dados";</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoExcel4.png"</p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoExcel4.png"/></p>
 
 <p>7. A tela do "Power Query Editor" será exibida;</p>
 
 <p>8. No menu "Página Inicial" dentro do item "Transformar", selecione a opção "Usar a Primeira Linha como Cabeçalho";</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoExcel5.png"</p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoExcel5.png"/></p>
 
 <p>9. Ainda no menu "Página Inicial" clique no botão "Fechar e Aplicar"</p>
 
 <p>10. O seu arquivo será carregado para o Power BI Desktop e os campos da "EstadosBrasileiros" poderão ser visualizados na sessão "Campos".</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoExcel6.png"</p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoExcel6.png"/></p>
 
 <p>Prontinho! Seu primeiro arquivo excel foi carregado e os dados estão disponíveis para serem utilizados :)</p>
 
-<p>Repita do passo 2 ao 10 e carregue os demais ou quantos mais arquivos nos formatos "xls", ".xlsx" e ".xlsm" para o Power BI você quiser.</p>
+<p>Repita do passo 2 ao 10 e carregue os demais ou quantos mais arquivos nos formatos "xls", ".xlsx" e ".xlsm" para o Power BI que você quiser.</p>
