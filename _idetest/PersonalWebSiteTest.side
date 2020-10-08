@@ -1026,7 +1026,7 @@
       ],
       "value": "SPRINT - Resolva problemas e teste ideias em cinco dias - Quinta-feira"
     }, {
-      "id": "e01acab1-d90e-4e2c-b47f-411e762cc47c",
+      "id": "b009f167-8e95-44ae-9fb4-c7c2bb9a0036",
       "comment": "",
       "command": "assertText",
       "target": "linkText=SPRINT - Resolva problemas e teste ideias em cinco dias - Sexta-feira",
@@ -1040,6 +1040,21 @@
         ["xpath=//a[contains(.,'SPRINT - Resolva problemas e teste ideias em cinco dias - Sexta-feira')]", "xpath:innerText"]
       ],
       "value": "SPRINT - Resolva problemas e teste ideias em cinco dias - Sexta-feira"
+    }, {
+      "id": "e01acab1-d90e-4e2c-b47f-411e762cc47c",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Como ler dados de arquivos Excel no Power BI",
+      "targets": [
+        ["linkText=SPRINT - Resolva problemas e teste ideias em cinco dias - Sexta-feira", "linkText"],
+        ["css=.row:nth-child(1) a", "css:finder"],
+        ["xpath=//a[contains(text(),'SPRINT - Resolva problemas e teste ideias em cinco dias - Sexta-feira')]", "xpath:link"],
+        ["xpath=//div[@id='wrap']/div/div/div/div/h5/strong/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://mateusbtlopes.github.io/sprint-resolva-problemas-e-teste-ideias-em-cinco-dias-sexta-feira.html')]", "xpath:href"],
+        ["xpath=//strong/a", "xpath:position"],
+        ["xpath=//a[contains(.,'SPRINT - Resolva problemas e teste ideias em cinco dias - Sexta-feira')]", "xpath:innerText"]
+      ],
+      "value": "Como ler dados de arquivos Excel no Power BI"
     }, {
       "id": "afe953be-61c1-4baa-8ec3-f39338f752d3",
       "comment": "",
