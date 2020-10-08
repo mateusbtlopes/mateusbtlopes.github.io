@@ -28,3 +28,5 @@ Allow: /sprint-resolva-problemas-e-teste-ideias-em-cinco-dias-quarta-feira.html
 Allow: /sprint-resolva-problemas-e-teste-ideias-em-cinco-dias-quinta-feira.html
 Allow: /sprint-resolva-problemas-e-teste-ideias-em-cinco-dias-sexta-feira.html
 Allow: /como-ler-dados-de-arquivos-excel-no-power-bi.html
+Allow: /como-ler-dados-de-arquivos-texto-no-power-bi.html
+Allow: /como-ler-dados-de-arquivos-google-sheet-no-power-bi.html
