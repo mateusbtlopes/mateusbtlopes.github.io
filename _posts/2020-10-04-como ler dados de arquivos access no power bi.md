@@ -7,10 +7,11 @@ tags:
 - '#lendoaccessnopowerbi'
 - '#PowerBI'
 - '#DataVisualization'
+category: [<i class="fa fa-github"></i>]
 ---
 
 <div style="text-align:center">
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoAccess1.png" alt="Como ler dados de arquivos Access no Power BI" height="100" width="400"/></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoAccess1.png" alt="Como ler dados de arquivos Access no Power BI" height="240" width="400"/></p>
 </div>
 
 <div style="text-align:center">
@@ -37,22 +38,22 @@ tags:
 
 <p>2. Acesse o menu <i>"Página Inicial"</i>, clique no botão <i>"Obter dados"</i> e em seguida na opção <i>"Mais"</i> selecione então a opção <i>"Banco de dados do Access"</i>;</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoAccess2.png" alt="Acessando a fonte de dados" /></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoAccess2.png" alt="Acessando a fonte de dados"/></p>
 
 <p>3. Uma janela para seleção do arquivo a ser importado será exibida;</p>
 
 <p>4. Devemos escolher qual arquivo desejamos ler ou carregar, neste exemplo, vamos selecionar o arquivo <i><strong>Gestão de Veículos.accdb</strong></i></p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoAccess3.png"</p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoAccess3.png"/></p>
 
 <p>5. A tela de "Navegação" será exibida;</p>
 
 <p>6. Devemos selecionar as tabelas ou seja, os itens que iniciam-se com "tb" e em seguida clicar em "Carregar";</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoAccess4.png"</p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoAccess4.png"/></p>
 
 <p>7. O seu arquivo será carregado para o Power BI Desktop e as tabelas do arquivo "Gestão de Veículos" estando disponíveis para visualização na sessão "Campos".</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoAccess5.png"</p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoAccess5.png"/></p>
 
 <p>Prontinho! Seu arquivo Access foi carregado e os dados estão disponíveis para serem utilizados :)</p>
