@@ -43,7 +43,7 @@ category: [<i class="fa fa-github"></i>]
 
 <p>4. Devemos escolher qual arquivo desejamos ler ou carregar, neste exemplo, vamos selecionar o arquivo <i><strong>Empresas listadas na bolsa de valores.pdf</strong></i></p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF3.png" height="259" width="1065"/></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF3.png" height="359" width="1000"/></p>
 
 <p>5. A tela de "Navegação" será exibida;</p>
 
