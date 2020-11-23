@@ -58,6 +58,6 @@ category: [<i class="fa fa-github"></i>]
 
 <p>Prontinho! Seu primeiro arquivo texto foi carregado e os dados estão disponíveis para serem utilizados :)</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoArquivoTexto6.png"/></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoArquivoTexto6.png" height="756" width="828"/></p>
 
 <p>Estes arquivos estão disponíveis para download gratuitamente no meu repositório <a href="https://github.com/mateusbtlopes/ArquivosParaPowerBI" target="_blank">"ArquivosParaPowerBI"</a> do GitHub.</p>

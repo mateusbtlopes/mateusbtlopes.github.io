@@ -43,20 +43,20 @@ category: [<i class="fa fa-github"></i>]
 
 <p>4. Devemos escolher qual arquivo desejamos ler ou carregar, neste exemplo, vamos selecionar o arquivo <i><strong>Empresas listadas na bolsa de valores.pdf</strong></i></p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF3.png"</p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF3.png"/></p>
 
 <p>5. A tela de "Navegação" será exibida;</p>
 
 <p>6. Devemos selecionar as "Page001, Page002, Page003 e Page004" e em seguida clicar em "Carregar";</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF4.png"</p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF4.png"/></p>
 
 <p>7. O seu arquivo será carregado para o Power BI Desktop e os campos da "Empresas listadas na bolsa de valores" poderão ser visualizados na sessão "Campos".</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF5.png"</p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF5.png"/></p>
 
 <p>Prontinho! Seu primeiro arquivo PDF foi carregado e os dados estão disponíveis para serem utilizados :)</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF6.png"</p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF6.png" height="756" width="828"/></p>
 
 <p>Estes arquivos estão disponíveis para download gratuitamente no meu repositório <a href="https://github.com/mateusbtlopes/ArquivosParaPowerBI" target="_blank">"ArquivosParaPowerBI"</a> do GitHub.</p>

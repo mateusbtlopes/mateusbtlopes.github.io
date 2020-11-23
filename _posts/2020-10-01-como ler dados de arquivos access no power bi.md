@@ -58,6 +58,6 @@ category: [<i class="fa fa-github"></i>]
 
 <p>Prontinho! Seu arquivo Access foi carregado e os dados estão disponíveis para serem utilizados :)</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoAccess6.png"/></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoAccess6.png" height="756" width="828"/></p>
 
 <p>Este arquivo está disponível para download gratuitamente no meu repositório <a href="https://github.com/mateusbtlopes/ArquivosParaPowerBI/Access" target="_blank">"ArquivosParaPowerBI"</a> do GitHub.</p>
