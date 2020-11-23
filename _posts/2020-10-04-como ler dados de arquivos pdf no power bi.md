@@ -43,13 +43,13 @@ category: [<i class="fa fa-github"></i>]
 
 <p>4. Devemos escolher qual arquivo desejamos ler ou carregar, neste exemplo, vamos selecionar o arquivo <i><strong>Empresas listadas na bolsa de valores.pdf</strong></i></p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF3.png" height="195" width="1065"/></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF3.png" height="195" width="1000"/></p>
 
 <p>5. A tela de "Navegação" será exibida;</p>
 
 <p>6. Devemos selecionar as "Page001, Page002, Page003 e Page004" e em seguida clicar em "Carregar";</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF4.png" height="488" width="860"/></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF4.png" height="488" width="960"/></p>
 
 <p>7. O seu arquivo será carregado para o Power BI Desktop e os campos da "Empresas listadas na bolsa de valores" poderão ser visualizados na sessão "Campos".</p>
 
