@@ -70,4 +70,8 @@ category: [<i class="fa fa-github"></i>]
 
 <p>Prontinho! Seu primeiro arquivo excel foi carregado e os dados estão disponíveis para serem utilizados :)</p>
 
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoExcel7.png"/></p>
+
 <p>Repita do passo 2 ao 10 e carregue os demais ou quantos mais arquivos nos formatos "xls", ".xlsx" e ".xlsm" para o Power BI que você quiser.</p>
+
+<p>Estes arquivos estão disponíveis para download gratuitamente no meu repositório "<a href="https://github.com/mateusbtlopes/ArquivosParaPowerBI" target="_blank">ArquivosParaPowerBI</a>" do GitHub.</p>

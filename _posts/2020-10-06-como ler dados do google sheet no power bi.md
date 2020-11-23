@@ -75,3 +75,7 @@ category: [<i class="fa fa-github"></i>]
 <p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoGoogleShets7.png"/></p>
 
 <p>Prontinho! Seus dados foram carregados com sucesso do Google Sheets para Power BI Desktop :)</p>
+
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoGoogleShets8.png"/></p>
+
+<p>Estes arquivos estão disponíveis para download gratuitamente no meu repositório <a href="https://github.com/mateusbtlopes/ArquivosParaPowerBI" target="_blank">"ArquivosParaPowerBI"</a> do GitHub.</p>
