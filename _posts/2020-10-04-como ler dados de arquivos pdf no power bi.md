@@ -37,23 +37,23 @@ category: [<i class="fa fa-github"></i>]
 
 <p>2. Acesse o menu <i>"Página Inicial"</i>, clique no botão <i>"PDF"</i> diretamente ou clique no botão <i>"Obter dados"</i> e acesse a opção <i>"PDF"</i>;</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF2.png" alt="Acessando a fonte de dados" /></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF2.png" alt="Acessando a fonte de dados" height="756" width="828"/></p>
 
 <p>3. Uma janela para seleção do arquivo a ser importado será exibida;</p>
 
 <p>4. Devemos escolher qual arquivo desejamos ler ou carregar, neste exemplo, vamos selecionar o arquivo <i><strong>Empresas listadas na bolsa de valores.pdf</strong></i></p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF3.png"/></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF3.png" height="765" width="395"/></p>
 
 <p>5. A tela de "Navegação" será exibida;</p>
 
 <p>6. Devemos selecionar as "Page001, Page002, Page003 e Page004" e em seguida clicar em "Carregar";</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF4.png"/></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF4.png" height="1376" width="888"/></p>
 
 <p>7. O seu arquivo será carregado para o Power BI Desktop e os campos da "Empresas listadas na bolsa de valores" poderão ser visualizados na sessão "Campos".</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF5.png"/></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF5.png" height="531" width="319"/></p>
 
 <p>Prontinho! Seu primeiro arquivo PDF foi carregado e os dados estão disponíveis para serem utilizados :)</p>
 

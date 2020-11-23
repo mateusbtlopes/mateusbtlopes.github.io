@@ -38,26 +38,26 @@ category: [<i class="fa fa-github"></i>]
 
 <p>2. Acesse o menu <i>"Página Inicial"</i>, clique no botão <i>"Obter dados"</i> e em seguida na opção <i>"Mais"</i> selecione então a opção <i>"Texto/CSV"</i>;</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoCSV2.png" alt="Acessando a fonte de dados" /></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoCSV2.png" alt="Acessando a fonte de dados" height="756" width="828"/></p>
 
 <p>3. Uma janela para seleção do arquivo a ser importado será exibida;</p>
 
 <p>4. Devemos escolher qual arquivo desejamos ler ou carregar, neste exemplo, vamos selecionar o arquivo <i><strong>Times_SerieA_Brasileiro20_21.csv</strong></i></p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoCSV3.png"</p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoCSV3.png"/></p>
 
 <p>5. A tela de "Navegação" será exibida;</p>
 
 <p>6. Devemos selecionar a "Times_SerieA_Brasileiro20_21" e em seguida clicar em "Carregar";</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoCSV4.png"</p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoCSV4.png"/></p>
 
 <p>7. O seu arquivo será carregado para o Power BI Desktop e os campos da "Times_SerieA_Brasileiro20_21" poderão ser visualizados na sessão "Campos".</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoCSV5.png"</p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoCSV5.png"/></p>
 
 <p>Prontinho! Seu arquivo CSV foi carregado e os dados estão disponíveis para serem utilizados :)</p>
 
 <p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoCSV6.png" height="756" width="828"/></p>
 
-<p>Este arquivo está disponível para download gratuitamente no meu repositório <a href="https://github.com/mateusbtlopes/ArquivosParaPowerBI/CSV" target="_blank">"ArquivosParaPowerBI"</a> do GitHub.</p>
+<p>Este arquivo está disponível para download gratuitamente no meu repositório <a href="https://github.com/mateusbtlopes/ArquivosParaPowerBI" target="_blank">"ArquivosParaPowerBI"</a> do GitHub.</p>

@@ -60,7 +60,7 @@ category: [<i class="fa fa-github"></i>]
 
 <p>8. No menu "Página Inicial" dentro do item "Transformar", selecione a opção "Usar a Primeira Linha como Cabeçalho";</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoExcel5.png"/></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoExcel5.png"height="756" width="828"/></p>
 
 <p>9. Ainda no menu "Página Inicial" clique no botão "Fechar e Aplicar"</p>
 
