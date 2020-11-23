@@ -10,7 +10,7 @@ category: [<i class="fa fa-github"></i>]
 ---
 
 <div style="text-align:center">
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF1.png" alt="Como ler dados de arquivos PDF no Power BI" height="100" width="400"/></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/LendoPDF1.png" alt="Como ler dados de arquivos PDF no Power BI" height="240" width="480"/></p>
 </div>
 
 <div style="text-align:center">
