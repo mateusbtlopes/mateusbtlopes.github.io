@@ -8,7 +8,7 @@ tags:
 ---
 
 <div style="text-align:center">
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/mysql0.png" height="480" width="600"/></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/mysql0.png" height="240" width="480"/></p>
 </div>
 
 <div style="text-align:center">
