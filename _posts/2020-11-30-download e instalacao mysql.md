@@ -8,7 +8,7 @@ tags:
 ---
 
 <div style="text-align:center">
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/mysql1.png" height="480" width="600"/></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/mysql0.png" height="480" width="600"/></p>
 </div>
 
 <div style="text-align:center">
@@ -23,9 +23,11 @@ tags:
 
 <p>Para realização do download utilizaremos o link do site oficial da Oracle para encontrar a <a href="https://dev.mysql.com/downloads/installer/">versão Community do MySQL para Windows</a>.</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/mysql2.png" height="480" width="600"/></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/mysql1.png" height="480" width="600"/></p>
 
 <p>Ao clicar na versão desejada para download você será redirecionado para a página de login, onde você pode selecionar a opção "No thanks, just start my download".</p>
+
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/mysql2.png" height="480" width="600"/></p>
 
 <h3 id="heading3">Instalação</h3>
 
@@ -45,7 +47,7 @@ tags:
 
 <p>5. Uma mensagem de aviso será dada pois os requisitos não foram instalados e não precisam pois não afetaram nossa instalação neste momento;</p>
 
-<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/mysql6.png" height="480" width="600"/></p>
+<p><img src="https://raw.githubusercontent.com/mateusbtlopes/mateusbtlopes.github.io/master/_posts/img/mysql6.png" height="180" width="600"/></p>
 
 <p>6. A lista de produtos será exibida bem como seus status para instalação;</p>
 
