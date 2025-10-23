@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Zephyr Scale Projects WDC</title>
+    <script src="https://connectors.tableau.com/libs/tableauwdc-2.3.latest.js"></script>
+    <script>
+      (function () {
+        // ==============================
+        // 1️⃣ - Define Schema
+        // ==============================
+        var myConnector = tableau.makeConnector();
+
+        myConnector.getSchema = function (schemaCallback) {
+          const cols = [
+            { id: "id", dataType: tableau.dataTypeEnum.int },
+            { id: "jiraProjectId", dataType: tableau.dataTypeEnum.int },
+            { id: "key", dataType: tableau.dataTypeEnum.string },
+            { id: "enabled", dataType: tableau.dataTypeEnum.bool },
+          ];
+
+          const tableSchema = {
+            id: "zephyr_projects",
+            alias: "Zephyr Scale Projects",
+            columns: cols,
+          };
+
+          schemaCallback([tableSchema]);
+        };
+
+        // ==============================
+        // 2️⃣ - Fetch Data
+        // ==============================
+        myConnector.getData = function (table, doneCallback) {
+          const token = tableau.password; // token armazenado pelo usuário
+          const projectKey = tableau.connectionData; // parâmetro informado pelo usuário
+
+          const url = "https://api.zephyrscale.smartbear.com/v2/projects";
+
+          fetch(url, {
+            method: "GET",
+            headers: {
+              "Content-Type": "application/json",
+              Authorization: "Bearer " + token,
+            },
+          })
+            .then((response) => {
+              if (!response.ok) {
+                throw new Error("Erro na requisição: " + response.status);
+              }
+              return response.json();
+            })
+            .then((data) => {
+              let tableData = [];
+
+              data.forEach((item) => {
+                // Filtra pelo Project Key informado
+                if (!projectKey || item.key === projectKey) {
+                  tableData.push({
+                    id: item.id,
+                    jiraProjectId: item.jiraProjectId,
+                    key: item.key,
+                    enabled: item.enabled,
+                  });
+                }
+              });
+
+              table.appendRows(tableData);
+              doneCallback();
+            })
+            .catch((error) => {
+              console.error("Erro ao buscar dados do Zephyr:", error);
+              tableau.abortWithError("Erro ao buscar dados: " + error.message);
+            });
+        };
+
+        tableau.registerConnector(myConnector);
+
+        // ==============================
+        // 3️⃣ - Interface do Usuário
+        // ==============================
+        document.addEventListener("DOMContentLoaded", function () {
+          document
+            .getElementById("submitButton")
+            .addEventListener("click", function () {
+              const token = document.getElementById("token").value.trim();
+              const projectKey = document.getElementById("projectKey").value.trim();
+
+              if (!token) {
+                alert("Por favor, informe o Bearer Token.");
+                return;
+              }
+
+              tableau.connectionName = "Zephyr Scale Projects";
+              tableau.password = token;
+              tableau.connectionData = projectKey; // guarda o filtro opcional
+              tableau.submit();
+            });
+        });
+      })();
+    </script>
+  </head>
+
+  <body>
+    <h2>Conexão com Zephyr Scale - Projects</h2>
+    <p>Informe o Bearer Token e, opcionalmente, o Project Key para filtrar:</p>
+    <label for="token">Bearer Token:</label><br />
+    <input type="password" id="token" placeholder="Informe seu Bearer Token" style="width: 400px"/><br /><br />
+
+    <label for="projectKey">Project Key (opcional):</label><br />
+    <input type="text" id="projectKey" placeholder="Ex: QA" style="width: 200px" /><br /><br />
+
+    <button id="submitButton">Conectar ao Zephyr</button>
+  </body>
+</html>
